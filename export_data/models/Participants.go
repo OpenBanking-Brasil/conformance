@@ -1,9 +1,9 @@
-package main
+package models
 
 import "time"
 
 // used https://mholt.github.io/json-to-go/ to generate the struct automatically
-type ParticipantsData []struct {
+type Participants []struct {
 	OrganisationID              string      `json:"OrganisationId"`
 	Status                      string      `json:"Status"`
 	OrganisationName            string      `json:"OrganisationName"`
