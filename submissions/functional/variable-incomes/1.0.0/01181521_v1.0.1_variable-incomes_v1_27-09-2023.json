@@ -1,0 +1,9 @@
+{
+	"api": "variable-incomes_v1",
+	"sd": "28373",
+	"docusign_id": "B4F9E81D-E30A-49BE-BD8B-59A12D750BC0",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=BE7DfBbqoSVMZ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=iFqlKKnK4OKdk\u0026public=true"
+	]
+}

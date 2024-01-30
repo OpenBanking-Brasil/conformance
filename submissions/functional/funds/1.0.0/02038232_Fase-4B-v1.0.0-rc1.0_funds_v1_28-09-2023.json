@@ -1,0 +1,9 @@
+{
+	"api": "funds_v1",
+	"sd": "28499",
+	"docusign_id": "49E2FB66-6755-4620-89E8-0F7D3422ADA5",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=sSzzF1lt2bIpJ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=XzLzInjSRzdqI\u0026public=true"
+	]
+}

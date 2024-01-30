@@ -1,0 +1,9 @@
+{
+	"api": "bank-fixed-incomes_v1",
+	"sd": "28544",
+	"docusign_id": "298055F5-0751-4F80-B9DD-7F7C3A5397A0",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=UZ45zuJVo0Jmh\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=8v6rTjjZyQloj\u0026public=true"
+	]
+}

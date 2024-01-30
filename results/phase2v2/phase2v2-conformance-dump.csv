@@ -1,0 +1,441 @@
+Id da Organização,Deployment,API,Version,Data
+00000000,API BB v2,accounts,v2-OL,10-10-2022
+00315557,Open-Finance-v2.0.0,accounts,v2,25-08-2023
+00360305,Caixa Econômica Federal,accounts,v2-OL,04-10-2022
+01181521,Open Finance 2.0.1,accounts,v2-OL,06-10-2022
+02038232,Accounts API Test 2.0.1,accounts,v2,11-10-2022
+07237373,BNB Open Banking Brasil 2.0.1,accounts,v2-OL,10-10-2022
+07237373,BNB Open Finance Brasil 2.0.1,accounts,v2-OL,21-11-2022
+10573521,Mercado Pago Open Banking v2.0,accounts,v2-OL,05-10-2022
+11275560,RecargaPay-OpenFinance,accounts,v2,16-08-2023
+13935893,Open-Banking-Brazil-v2.0.1,accounts,v2,02-08-2023
+15114366,BOCOM BBM Open Banking 2.0.1,accounts,v2-OL,06-10-2022
+18236120,Nu Open Banking 1.0.0,accounts,v2-OL,10-10-2022
+20855875,Open Banking Brazil v2.0.1,accounts,v2-OL,10-07-2023
+22896431,PicPay Open Banking 2.0.0,accounts,v2-OL,07-10-2022
+27098060,Digio - F2 Opus OOB v1,accounts,v2-OL,03-01-2023
+27098060,Digio Uber - F2 Opus OOB v1,accounts,v2-OL,03-01-2023
+30306294,Banco BTG Pactual Open Banking v2.0 - CORPORATE,accounts,v2-OL,29-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - DIGITAL,accounts,v2-OL,29-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS-BUSINESS,accounts,v2-OL,10-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS,accounts,v2-OL,29-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - WM,accounts,v2-OL,29-09-2022
+30620610,Customer Data - API Version 2,accounts,v2-OL,23-02-2023
+33264668,BANCO XP S.A. Open Banking 3.0,accounts,v2-OL,19-10-2022
+33479023,Banco Citibank – Open Banking Brazil V2.0,accounts,v2-OL,09-10-2022
+35977097,Up.p Open Banking 1.0,accounts,v2-OL,10-10-2022
+37715993,Accredito Open Banking 1.0.0,accounts,v2,10-10-2022
+58160789,Safra Open Finance 2.0,accounts,v2-OL,10-10-2022
+59285411,Banco PAN Open Banking v1.0,accounts,v2-OL,10-10-2022
+59588111,BV-OpenFinance-2.0,accounts,v2-OL,07-10-2022
+60701190,Itau Unibanco Major,accounts,v2-OL,13-10-2022
+60746948,Banco Bradesco PF - Open Finance Brazil v2.0,accounts,v2-OL,04-10-2022
+60746948,Banco Bradesco PJ - Open Finance Brazil v2.0,accounts,v2-OL,04-10-2022
+60746948,next - Open Finance Brazil v1.0,accounts,v2-OL,07-10-2022
+60889128,Banco Sofisa 20:12:2022,accounts,v2-OL,22-12-2022
+61186680,Banco BMG Open Banking 2.0.1,accounts,v2-OL,07-10-2022
+61820817,Banco Paulista Open Banking 1.0,accounts,v2-OL,06-10-2022
+90400888,Santander Open Banking 2.0.1,accounts,v2-OL,29-09-2022
+92702067,Banrisul Open Finance v2.0.0,accounts,v2-OL,28-09-2022
+92894922,Release Fase 2 V2,accounts,v2-OL,11-10-2022
+00000000,API BB v2,business,v2-OL,04-10-2022
+00000010,Mock Bank Phase 2v2,business,v2-OL,22-11-2022
+00315557,Open-Finance-v2.0.0,business,v2,25-08-2023
+00360305,Caixa Econômica Federal,business,v2-OL,04-10-2022
+01181521,Open Finance 2.0.1,business,v2-OL,28-09-2022
+02038232,Business Customer Data api test 2.0.1 API,business,v2-OL,29-09-2022
+03502961,API Test 2.0.1,business,v2-OL,10-10-2022
+07207996,Banco Bradesco Financiamentos - Open Finance Brazil v2.0,business,v2-OL,04-10-2022
+07237373,BNB Open Banking Brasil 2.0.1,business,v2-OL,10-10-2022
+07237373,BNB Open Finance Brasil 2.0.1,business,v2-OL,21-11-2022
+10573521,Mercado Pago Open Banking v2.0,business,v2-OL,05-10-2022
+11275560,RecargaPay-OpenFinance,business,v2,16-08-2023
+15114366,BOCOM BBM Open Banking 2.0.1,business,v2-OL,06-10-2022
+18236120,Nu Open Banking 1.0.0,business,v2-OL,10-10-2022
+20855875,Api Corporate Customer v2.0.1,business,v2,17-07-2023
+22896431,PicPay Open Banking 2.0.0,business,v2-OL,07-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - CORPORATE,business,v2-OL,11-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS-BUSINESS,business,v2-OL,11-10-2022
+30620610,Customer Data - API Version 2,business,v2-OL,23-02-2023
+33264668,BANCO XP S.A. Open Banking 2.0,business,v2-OL,04-04-2023
+33479023,Banco Citibank – Open Banking Brazil V2.0,business,v2-OL,23-09-2022
+33657248,BNDES Open Banking 1.2.0,business,v2-OL,28-09-2022
+33657248,"Resources,-Consents-v2.1.0-e-Fin,-Customer-v2.0.1-",business,v2,26-09-2023
+35977097,Up.p Open Banking 1.0,business,v2-OL,10-10-2022
+37715993,Accredito Open Banking 1.0.0,business,v2,10-10-2022
+42064545,Quanto Open Banking Opus Services 2.0.0,business,v2-OL,07-10-2022
+44471172,Iniciador SaaS Detentora v1.2.0,business,v2-OL,24-05-2023
+58160789,Safra Open Finance 2.0,business,v2-OL,07-10-2022
+59588111,BV-OpenFinance-2.0,business,v2-OL,07-10-2022
+60701190,Itau Unibanco Major,business,v2-OL,06-10-2022
+60746948,Banco Bradesco PJ - Open Finance Brazil v2.0,business,v2-OL,04-10-2022
+60889128,Banco Sofisa 20:12:2022,business,v2-OL,22-12-2022
+61186680,Banco BMG Open Banking 2.0.1,business,v2-OL,07-10-2022
+61820817,Banco Paulista Open Banking 1.0,business,v2-OL,07-10-2022
+74014747,Ágora - Open Finance Brazil v2.0,business,v2-OL,04-10-2022
+90400888,Santander Open Banking 2.0.1,business,v2-OL,29-09-2022
+92702067,Banrisul Open Finance v2.0.0,business,v2-OL,28-09-2022
+92894922,Release Fase 2 V2,business,v2-OL,11-10-2022
+00000000,API BB v2,consents,v2-OL,05-10-2022
+00000010,Mock Bank Phase 2v2,consents,v2-OL,22-11-2022
+00315557,Open-Finance-v2.0.0,consents,v2,24-08-2023
+00360305,Caixa Econômica Federal,consents,v2-OL,04-10-2022
+01181521,Open Finance 2.0.1,consents,v2-OL,30-09-2022
+02038232,Consents api test 2.0.1,consents,v2-OL,07-10-2022
+03502961,API Test 2.0.1,consents,v2-OL,10-10-2022
+04184779,Banco Bradescard - Open Finance Brazil v2.0,consents,v2-OL,04-10-2022
+07207996,Banco Bradesco Financiamentos - Open Finance Brazil v2.0,consents,v2-OL,04-10-2022
+07237373,BNB Open Banking Brasil 2.0.1,consents,v2-OL,10-10-2022
+07237373,BNB Open Finance Brasil 2.0.1,consents,v2-OL,21-11-2022
+10573521,Mercado Pago Open Banking v2.0,consents,v2-OL,07-10-2022
+11275560,RecargaPay-OpenFinance,consents,v2,16-08-2023
+13935893,Open-Banking-Brazil-v2.0.1,consents,v2,02-08-2023
+15114366,BOCOM BBM Open Banking 2.0.1,consents,v2-OL,06-10-2022
+18236120,Nu Open Banking 1.0.0,consents,v2-OL,17-10-2022
+20855875,Open Banking Brazil v2.0.1,consents,v2-OL,10-07-2023
+22896431,PicPay Open Banking 2.0.0,consents,v2-OL,07-10-2022
+27098060,Digio - F2 Opus OOB v1,consents,v2-OL,14-12-2022
+27098060,Digio Uber - F2 Opus OOB v1,consents,v2-OL,14-12-2022
+27098060,Digio---Consents-v2.0.1,consents,v2,12-09-2023
+27098060,Digio-Uber---Consents-v2.0.1,consents,v2,12-09-2023
+30306294,Banco BTG Pactual Open Banking v2.0 - CORPORATE,consents,v2-OL,10-10-2020
+30306294,Banco BTG Pactual Open Banking v2.0 - DIGITAL,consents,v2-OL,26-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS-BUSINESS,consents,v2-OL,10-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS,consents,v2-OL,19-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - WM,consents,v2-OL,27-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0-MAIS,consents,v2-OL,19-09-2022
+30620610,Customer Data - API Version 2,consents,v2-OL,23-02-2023
+32402502,Consents-v2,consents,v2,06-09-2023
+33254319,Banco Losango - Open Finance Brazil v2.0,consents,v2-OL,07-10-2022
+33264668,BANCO XP S.A. Open Banking 3.0,consents,v2-OL,07-10-2022
+33479023,Banco Citibank – Open Banking Brazil V2.0,consents,v2-OL,26-09-2022
+33657248,BNDES Open Banking 1.2.0,consents,v2-OL,29-09-2022
+35977097,Up.p Open Banking 1.0,consents,v2-OL,10-10-2022
+37715993,Accredito Open Banking 1.0.0,consents,v2-OL,10-10-2022
+37763847,Geru Open Finance v2,consents,v2-OL,26-09-2022
+42064545,Quanto Open Banking Opus Services 2.0.0,consents,v2-OL,07-10-2022
+43215815,Belvo-Open-Finance-v1.0,consents,v2,02-08-2023
+44471172,Iniciador SaaS Detentora v1.2.0,consents,v2-OL,24-05-2023
+58160789,Safra Open Finance 2.0,consents,v2-OL,07-10-2022
+59285411,Banco PAN Open Banking v1.0,consents,v2-OL,04-10-2022
+59588111,BV-OpenFinance-2.0,consents,v2-OL,07-10-2022
+60701190,Itau Unibanco Major,consents,v2-OL,07-10-2022
+60746948,Banco Bradesco PF - Open Finance Brazil v2.0,consents,v2-OL,04-10-2022
+60746948,Banco Bradesco PJ - Open Finance Brazil v2.0,consents,v2-OL,04-10-2022
+60746948,next - Open Finance Brazil v1.0,consents,v2-OL,04-10-2022
+60889128,Banco Sofisa 20:12:2022,consents,v2-OL,22-12-2022
+61186680,Banco BMG Open Banking 2.0.1,consents,v2-OL,19-10-2022
+61820817,Banco Paulista Open Banking 1.0,consents,v2-OL,06-10-2022
+74014747,Ágora - Open Finance Brazil v2.0,consents,v2-OL,04-10-2022
+90400888,Santander Open Banking 2.0.1,consents,v2-OL,30-09-2022
+92702067,Banrisul Open Finance v2.0.0,consents,v2-OL,30-09-2022
+92894922,Release Fase 2 V2,consents,v2-OL,11-10-2022
+00000000,APIs-4B-v1,consents,v2.1,22-09-2023
+00360305,Caixa-Econômica-Federal,consents,v2.1,20-09-2023
+01181521,v1.0.1,consents,v2.1,27-09-2023
+02038232,Fase-4B-v1.0.0-rc1.0.,consents,v2.1,26-09-2023
+07237373,2.0.1,consents,v2.1,28-09-2023
+10573521,Mercado-Pago-Open-Banking-v2.0,consents,v2.1,19-09-2023
+12345678,example,consents,v2.1,16-08-2023
+15114366,BOCOM-BBM-Open-Banking-2.1.0,consents,v2.1,21-09-2023
+18236120,nubank-fase-4B-1.0,consents,v2.1,26-09-2023
+22896431,4B,consents,v2.1,25-09-2023
+27098060,Digio---Consents-v2.1.0,consents,v2.1,19-09-2023
+27098060,Digio-Uber---Consents-v2.1.0,consents,v2.1,19-09-2023
+30306294,BTG-Banking-Fase-4B,consents,v2.1,28-09-2023
+30306294,BTG-Corporate-Fase-4B,consents,v2.1,28-09-2023
+30306294,BTG-Empresas-Fase-4B,consents,v2.1,28-09-2023
+30306294,BTG-Investimentos-Fase-4B,consents,v2.1,28-09-2023
+30306294,BTG-WM-Fase-4B,consents,v2.1,23-09-2023
+33264668,BANCO-XP-S.A.-Open-Banking-2.0,consents,v2.1,22-09-2023
+33479023,V2.1.0,consents,v2.1,25-09-2023
+33657248,"Resources,-Consents-v2.1.0-e-Fin,-Customer-v2.0.1-",consents,v2.1,26-09-2023
+37763847,consents-4b-test-plan-v2,consents,v2.1,19-09-2023
+43215815,Belvo-Open-Finance-v1.0,consents,v2.1,03-10-2023
+58160789,Open-Finance-Brazil,consents,v2.1,26-09-2023
+59588111,BV-OpenFinance-2.0,consents,v2.1,05-10-2023
+60701190,consents-4b-test-plan-v2,consents,v2.1,20-09-2023
+60746948,Banco-Bradesco---Open-Finance-Brasil,consents,v2.1,25-09-2023
+61186680,Consents---v2.1.0,consents,v2.1,25-09-2023
+61820817,Banco-Paulista-V1.0,consents,v2.1,03-10-2023
+74014747,Ágora---Open-Finance-Brasil,consents,v2.1,25-09-2023
+74014747,Ágora---Open-Finance-Brasil,consents,v2.1,26-09-2023
+90400888,5.1.9,consents,v2.1,28-09-2023
+92702067,Banrisul-Open-Finance-4B-v1.0.0-,consents,v2.1,26-09-2023
+00000000,API BB v2,credit-card,v2-OL,04-10-2022
+00315557,Open-Finance-v2.0.0,credit-card,v2,24-08-2023
+00360305,Caixa Econômica Federal,credit-card,v2-OL,04-10-2022
+01181521,Open Finance 2.0.1,credit-card,v2-OL,03-10-2022
+02038232,Credit operations discounted credit rights api test 2.0.1,credit-card,v2-OL,30-09-2022
+04184779,Banco Bradescard - Open Finance Brazil v2.0,credit-card,v2-OL,04-10-2022
+07237373,BNB Open Banking Brasil 2.0.1,credit-card,v2-OL,10-10-2022
+07237373,BNB Open Finance Brasil 2.0.1,credit-card,v2-OL,21-11-2022
+10573521,Mercado Pago Open Banking v2.0,credit-card,v2-OL,05-10-2022
+18236120,Nu Open Banking 1.0.0,credit-card,v2-OL,10-10-2022
+20855875,credit-cards-test-plan-v2,credit-card,v2,02-08-2023
+22896431,PicPay Open Banking 2.0.0,credit-card,v2-OL,28-09-2022
+27098060,Digio - F2 Opus OOB v1,credit-card,v2-OL,23-12-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - CORPORATE,credit-card,v2-OL,07-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - DIGITAL,credit-card,v2-OL,06-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS-BUSINESS,credit-card,v2-OL,07-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS,credit-card,v2-OL,29-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - WM,credit-card,v2-OL,04-10-2022
+33254319,Banco Losango - Open Finance Brazil v2.0,credit-card,v2-OL,04-10-2022
+33264668,BANCO XP S.A. Open Banking 3.0,credit-card,v2-OL,10-10-2022
+33479023,Banco Citibank – Open Banking Brazil V2.0,credit-card,v2-OL,07-10-2022
+43142666,Mock Bank Phase 2v2,credit-card,v2,21-11-2022
+58160789,Safra Open Finance 2.0,credit-card,v2-OL,10-10-2022
+59285411,Banco PAN Open Banking v1.0,credit-card,v2-OL,10-10-2022
+59588111,BV-OpenFinance-2.0,credit-card,v2-OL,07-10-2022
+60701190,Itau Unibanco Major,credit-card,v2-OL,13-10-2022
+60746948,Banco Bradesco PF - Open Finance Brazil v2.0,credit-card,v2-OL,04-10-2022
+60746948,Banco Bradesco PJ - Open Finance Brazil v2.0,credit-card,v2-OL,04-10-2022
+60746948,next - Open Finance Brazil v1.0,credit-card,v2-OL,07-10-2022
+60889128,04-04-2023,credit-card,v2-OL,14-04-2023
+61186680,Banco BMG Open Banking 2.0.1,credit-card,v2-OL,07-10-2022
+90400888,Santander Open Banking 2.0.1,credit-card,v2-OL,08-10-2022
+92702067,Banrisul Open Finance v2.0.0,credit-card,v2-OL,07-10-2022
+92894922,Release Fase 2 V2,credit-card,v2-OL,07-10-2022
+00000000,API BB v2,financings,v2-OL,05-10-2022
+00315557,Open-Finance-v2.0.0,financings,v2,24-08-2023
+00360305,Caixa Econômica Federal,financings,v2-OL,04-10-2022
+01181521,Open Finance 2.0.1,financings,v2-OL,28-09-2022
+02038232,Financings api test 2.0.1,financings,v2-OL,29-09-2022
+03502961,API Test 2.0.1,financings,v2-OL,10-10-2022
+07207996,Banco Bradesco Financiamentos - Open Finance Brazil v2.0,financings,v2-OL,04-10-2022
+10573521,Mercado Pago Open Banking v2.0,financings,v2-OL,05-10-2022
+15114366,BOCOM BBM Open Banking 2.0.1,financings,v2-OL,06-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - CORPORATE,financings,v2-OL,29-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - DIGITAL,financings,v2-OL,29-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS-BUSINESS,financings,v2-OL,29-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS,financings,v2-OL,29-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - WM,financings,v2-OL,29-09-2022
+30620610,Customer Data - API Version 2,financings,v2-OL,23-02-2023
+33254319,Banco Losango - Open Finance Brazil v2.0,financings,v2-OL,04-10-2022
+33479023,Banco Citibank – Open Banking Brazil V2.0,financings,v2-OL,28-10-2022
+33657248,BNDES Open Banking 1.2.0,financings,v2-OL,28-09-2022
+33657248,"Resources,-Consents-v2.1.0-e-Fin,-Customer-v2.0.1-",financings,v2,26-09-2023
+35977097,Up.p Open Banking 1.0,financings,v2-OL,10-10-2022
+37715993,Accredito Open Banking 1.0.0,financings,v2-OL,10-10-2022
+43142666,Mock Bank Phase 2v2,financings,v2,21-11-2022
+58160789,Safra Open Finance 2.0,financings,v2-OL,08-10-2022
+59285411,Banco PAN Open Banking v1.0,financings,v2-OL,10-10-2022
+59588111,BV-OpenFinance-2.0,financings,v2-OL,07-10-2022
+60701190,Itau Unibanco Major,financings,v2-OL,06-10-2022
+60746948,Banco Bradesco PF - Open Finance Brazil v2.0,financings,v2-OL,04-10-2022
+60746948,Banco Bradesco PJ - Open Finance Brazil v2.0,financings,v2-OL,20-10-2022
+61186680,Banco BMG Open Banking 2.0.1,financings,v2-OL,30-09-2022
+90400888,Santander Open Banking 2.0.1,financings,v2-OL,29-09-2022
+92702067,Banrisul Open Finance v2.0.0,financings,v2-OL,10-10-2022
+92894922,Release Fase 2 V2,financings,v2-OL,07-10-2022
+00000000,API BB v2,invoice-financings,v2-OL,05-10-2022
+00315557,Open-Finance-v2.0.0,invoice-financings,v2,24-08-2023
+00360305,Caixa Econômica Federal,invoice-financings,v2-OL,04-10-2022
+01181521,Open Finance 2.0.1,invoice-financings,v2-OL,28-09-2022
+02038232,Credit operations discounted credit rights api test 2.0.1,invoice-financings,v2-OL,29-09-2022
+15114366,BOCOM BBM Open Banking 2.0.1,invoice-financings,v2-OL,06-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - CORPORATE,invoice-financings,v2-OL,30-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - DIGITAL,invoice-financings,v2-OL,29-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS-BUSINESS,invoice-financings,v2-OL,05-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS,invoice-financings,v2-OL,29-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - WM,invoice-financings,v2-OL,29-09-2022
+30620610,Customer Data - API Version 2,invoice-financings,v2-OL,23-02-2023
+33479023,Banco Citibank – Open Banking Brazil V2.0,invoice-financings,v2-OL,05-10-2022
+37715993,Accredito Open Banking 1.0.0,invoice-financings,v2-OL,10-10-2022
+43142666,Mock Bank Phase 2v2,invoice-financings,v2,21-11-2022
+58160789,Safra Open Finance 2.0,invoice-financings,v2-OL,07-10-2022
+59588111,BV-OpenFinance-2.0,invoice-financings,v2-OL,07-10-2022
+60701190,Itau Unibanco Major,invoice-financings,v2-OL,06-10-2022
+60746948,Banco Bradesco PJ - Open Finance Brazil v2.0,invoice-financings,v2-OL,04-10-2022
+60889128,Banco Sofisa 20:12:2022,invoice-financings,v2-OL,22-12-2022
+61186680,Banco BMG Open Banking 2.0.1,invoice-financings,v2-OL,07-10-2022
+90400888,Santander Open Banking 2.0.1,invoice-financings,v2-OL,29-09-2022
+92702067,Banrisul Open Finance v2.0.0,invoice-financings,v2-OL,28-09-2022
+92894922,Release Fase 2 V2,invoice-financings,v2-OL,07-10-2022
+00000000,API BB v2,loans,v2-OL,04-10-2022
+00315557,Open-Finance-v2.0.0,loans,v2,24-08-2023
+00360305,Caixa Econômica Federal,loans,v2-OL,04-10-2022
+01181521,Open Finance 2.0.1,loans,v2-OL,30-09-2022
+02038232,Loans api test 2.0.1,loans,v2-OL,30-09-2022
+07237373,BNB Open Banking Brasil 2.0.1,loans,v2-OL,10-10-2022
+07237373,BNB Open Finance Brasil 2.0.1,loans,v2-OL,21-11-2022
+10573521,Mercado Pago Open Banking v2.0,loans,v2-OL,05-10-2022
+15114366,BOCOM BBM Open Banking 2.0.1,loans,v2-OL,06-10-2022
+18236120,Nu Open Banking 1.0.0,loans,v2-OL,10-10-2022
+22896431,PicPay Open Banking 2.0.0,loans,v2-OL,07-10-2022
+27098060,Digio - F2 Opus OOB v1,loans,v2-OL,18-12-2022
+27098060,Digio - F2 Opus OOB v1,loans,v2-OL,23-12-2022
+27098060,Digio Uber - F2 Opus OOB v1,loans,v2-OL,18-12-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - CORPORATE,loans,v2-OL,06-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - DIGITAL,loans,v2-OL,06-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS-BUSINESS,loans,v2-OL,05-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS,loans,v2-OL,29-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - WM,loans,v2-OL,27-09-2022
+30620610,Customer Data - API Version 2,loans,v2-OL,23-02-2023
+33254319,Banco Losango - Open Finance Brazil v2.0,loans,v2-OL,04-10-2022
+33264668,BANCO XP S.A. Open Banking 3.0,loans,v2-OL,06-10-2022
+33479023,Banco Citibank – Open Banking Brazil V2.0,loans,v2-OL,05-10-2022
+35977097,Up.p Open Banking 1.0,loans,v2-OL,10-10-2022
+37715993,Accredito Open Banking 1.0.0,loans,v2-OL,10-10-2022
+37763847,Geru Open Finance v2,loans,v2-OL,26-09-2022
+43142666,Mock Bank Phase 2v2,loans,v2,21-11-2022
+58160789,Safra Open Finance 2.0,loans,v2-OL,07-10-2022
+59285411,Banco PAN Open Banking v1.0,loans,v2-OL,10-10-2022
+59588111,BV-OpenFinance-2.0,loans,v2-OL,07-10-2022
+60701190,Itau Unibanco Major,loans,v2-OL,06-10-2022
+60746948,Banco Bradesco PF - Open Finance Brazil v2.0,loans,v2-OL,04-10-2022
+60746948,Banco Bradesco PJ - Open Finance Brazil v2.0,loans,v2-OL,04-10-2022
+60746948,next - Open Finance Brazil v1.0,loans,v2-OL,07-10-2022
+60889128," Banco Sofisa 20-12-2022",loans,v2-OL,22-12-2022
+61186680,Banco BMG Open Banking 2.0.1,loans,v2-OL,03-10-2022
+61820817,Banco Paulista Open Banking 1.0,loans,v2-OL,06-10-2022
+90400888,Santander Open Banking 2.0.1,loans,v2-OL,30-09-2022
+92702067,Banrisul Open Finance v2.0.0,loans,v2-OL,30-09-2022
+92894922,Release Fase 2 V2,loans,v2-OL,14-10-2022
+00000000,API BB v2,personal,v2-OL,04-10-2022
+00000010,Mock Bank Phase 2v2,personal,v2-OL,22-11-2022
+00315557,Open-Finance-v2.0.0,personal,v2,24-08-2023
+00360305,Caixa Econômica Federal,personal,v2-OL,04-10-2022
+01181521,Open Finance 2.0.1,personal,v2-OL,28-09-2022
+02038232,Personal Customer Data api test 2.0.1,personal,v2-OL,10-10-2022
+03502961,API Test 2.0.1,personal,v2-OL,10-10-2022
+04184779,Banco Bradescard - Open Finance Brazil v2.0,personal,v2-OL,04-10-2022
+07207996,Banco Bradesco Financiamentos - Open Finance Brazil v2.0,personal,v2-OL,04-10-2022
+07237373,BNB Open Banking Brasil 2.0.1,personal,v2-OL,10-10-2022
+07237373,BNB Open Finance Brasil 2.0.1,personal,v2-OL,21-11-2022
+10573521,Mercado Pago Open Banking v2.0,personal,v2-OL,05-10-2022
+11275560,RecargaPay-OpenFinance,personal,v2,16-08-2023
+13935893,Open-Banking-Brazil-v2.0.1,personal,v2,02-08-2023
+15114366,BOCOM BBM Open Banking 2.0.1,personal,v2-OL,06-10-2022
+18236120,Nu Open Banking 1.0.0,personal,v2-OL,10-10-2022
+20855875,Open Banking Brazil v2.0.1,personal,v2-OL,10-07-2023
+22896431,PicPay Open Banking 2.0.0,personal,v2-OL,07-10-2022
+27098060,Digio - F2 Opus OOB v1,personal,v2-OL,14-12-2022
+27098060,Digio Uber - F2 Opus OOB v1,personal,v2-OL,14-12-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - DIGITAL,personal,v2-OL,29-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS,personal,v2-OL,29-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - WM,personal,v2-OL,29-09-2022
+30620610,Customer Data - API Version 2,personal,v2-OL,23-02-2023
+33254319,Banco Losango - Open Finance Brazil v2.0,personal,v2-OL,04-10-2022
+33264668,BANCO XP S.A. Open Banking 3.0,personal,v2-OL,06-10-2022
+35977097,Up.p Open Banking 1.0,personal,v2-OL,10-10-2022
+37715993,Accredito Open Banking 1.0.0,personal,v2-OL,10-10-2022
+37763847,Geru Open Finance v2,personal,v2-OL,27-09-2022
+42064545,Quanto Open Banking Opus Services 2.0.0,personal,v2-OL,07-10-2022
+43215815,Belvo-Open-Finance-v1.0,personal,v2,02-08-2023
+44471172,Iniciador SaaS Detentora v1.2.0,personal,v2-OL,24-05-2023
+58160789,Safra Open Finance 2.0,personal,v2-OL,07-10-2022
+59285411,Banco PAN Open Banking v1.0,personal,v2-OL,29-09-2022
+59588111,BV-OpenFinance-2.0,personal,v2-OL,07-10-2022
+60701190,Itau Unibanco Major,personal,v2-OL,06-10-2022
+60746948,Banco Bradesco PF - Open Finance Brazil v2.0,personal,v2-OL,04-10-2022
+60746948,next - Open Finance Brazil v1.0,personal,v2-OL,07-10-2022
+60889128," Banco Sofisa 20-12-2022",personal,v2-OL,22-12-2022
+61186680,Banco BMG Open Banking 2.0.1,personal,v2-OL,28-09-2022
+61820817,Banco Paulista Open Banking 1.0,personal,v2-OL,06-10-2022
+74014747,Ágora - Open Finance Brazil v2.0,personal,v2-OL,04-10-2022
+90400888,Santander Open Banking 2.0.1,personal,v2-OL,29-09-2022
+92702067,Banrisul Open Finance v2.0.0,personal,v2-OL,28-09-2022
+92894922,Release Fase 2 V2,personal,v2-OL,11-10-2022
+00000000,API BB v2,resources,v2-OL,07-10-2022
+00000010,Mock Bank Phase 2v2,resources,v2-OL,22-11-2022
+00315557,Open-Finance-v2.0.0,resources,v2,24-08-2023
+00360305,Caixa Econômica Federal,resources,v2-OL,04-10-2022
+01181521,Open Finance 2.0.1,resources,v2-OL,03-10-2022
+02038232,Resources api test 2.0.1,resources,v2-OL,11-10-2022
+03502961,API Test 2.0.1,resources,v2-OL,10-10-2022
+04184779,Banco Bradescard - Open Finance Brazil v2.0,resources,v2-OL,04-10-2022
+07207996,Banco Bradesco Financiamentos - Open Finance Brazil v2.0,resources,v2-OL,04-10-2022
+07237373,BNB Open Banking Brasil 2.0.1,resources,v2-OL,10-10-2022
+07237373,BNB Open Finance Brasil 2.0.1,resources,v2-OL,21-11-2022
+10573521,Mercado Pago Open Banking v2.0,resources,v2-OL,05-10-2022
+11275560,RecargaPay-OpenFinance,resources,v2,16-08-2023
+13935893,Open-Banking-Brazil-v2.0.1,resources,v2,02-08-2023
+15114366,BOCOM BBM Open Banking 2.0.1,resources,v2-OL,13-10-2022
+18236120,Nu Open Banking 1.0.0,resources,v2-OL,10-10-2022
+20855875,Open Banking Brazil v2.0.1,resources,v2-OL,10-07-2023
+22896431,PicPay Open Banking 2.0.0,resources,v2-OL,07-10-2022
+27098060,Digio - F2 Opus OOB v1,resources,v2-OL,23-12-2022
+27098060,Digio Uber - F2 Opus OOB v1,resources,v2-OL,23-12-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - CORPORATE,resources,v2-OL,10-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - DIGITAL,resources,v2-OL,07-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS-BUSINESS,resources,v2-OL,10-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS,resources,v2-OL,20-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - WM,resources,v2-OL,27-09-2022
+30620610,Customer Data - API Version 2,resources,v2-OL,23-02-2023
+33254319,Banco Losango - Open Finance Brazil v2.0,resources,v2-OL,04-10-2022
+33264668,BANCO XP S.A. Open Banking,resources,v2-OL,06-10-2022
+33479023,Banco Citibank – Open Banking Brazil V2.0,resources,v2-OL,03-10-2022
+33657248,BNDES Open Banking 1.2.0,resources,v2-OL,29-09-2022
+35977097,Up.p Open Banking 1.0,resources,v2-OL,10-10-2022
+37715993,Accredito Open Banking 1.0.0,resources,v2-OL,10-10-2022
+37763847,Geru Open Finance v2,resources,v2-OL,03-10-2022
+42064545,Quanto Open Banking Opus Services 2.0.0,resources,v2-OL,07-10-2022
+43215815,Belvo-Open-Finance-v1.0,resources,v2,02-08-2023
+44471172,Iniciador SaaS Detentora v1.2.0,resources,v2-OL,24-05-2023
+58160789,Safra Open Finance 2.0,resources,v2-OL,07-10-2022
+59285411,Banco PAN Open Banking v1.0,resources,v2-OL,30-09-2022
+59588111,BV-OpenFinance-2.0,resources,v2-OL,07-10-2022
+60701190,Itau Unibanco Major,resources,v2-OL,06-10-2022
+60746948,Banco Bradesco PF - Open Finance Brazil v2.0,resources,v2-OL,07-10-2022
+60746948,Banco Bradesco PJ - Open Finance Brazil v2.0,resources,v2-OL,04-10-2022
+60746948,next - Open Finance Brazil v1.0 ,resources,v2-OL,04-10-2022
+60889128," Banco Sofisa 20-12-2022",resources,v2-OL,22-12-2022
+61186680,Banco BMG Open Banking 2.0.1,resources,v2-OL,04-10-2022
+61820817,Banco Paulista Open Banking 1.0,resources,v2-OL,06-10-2022
+74014747,Ágora - Open Finance Brazil v2.0,resources,v2-OL,04-10-2022
+90400888,Santander Open Banking 2.0.1,resources,v2-OL,30-09-2022
+92702067,Banrisul Open Finance v2.0.0,resources,v2-OL,30-09-2022
+92894922,Release Fase 2 V2,resources,v2-OL,11-10-2022
+00000000,APIs-4B-v1,resources,v2.1,22-09-2023
+00360305,Caixa-Econômica-Federal,resources,v2.1,20-09-2023
+01181521,-v1.0.1,resources,v2.1,27-09-2023
+02038232,Fase-4B-v1.0.0-rc1.0,resources,v2.1,26-09-2023
+07237373,2.1.0,resources,v2.1,28-09-2023
+12345678,example,resources,v2.1,16-08-2023
+15114366,BOCOM-BBM-Open-Banking-2.1.0,resources,v2.1,21-09-2023
+18236120,nubank-fase-4B-1.0,resources,v2.1,26-09-2023
+22896431,4B,resources,v2.1,25-09-2023
+30306294,BTG-Banking-Fase-4B,resources,v2.1,28-09-2023
+30306294,BTG-Corporate-Fase-4B,resources,v2.1,22-09-2023
+30306294,BTG-Empresas-Fase-4B,resources,v2.1,28-09-2023
+30306294,BTG-Investimentos-Fase-4B,resources,v2.1,22-09-2023
+30306294,BTG-WM-Fase-4B,resources,v2.1,22-09-2023
+30306294,BTG-WM-Fase-4B,resources,v2.1,23-09-2023
+33479023,V2.1.0,resources,v2.1,25-09-2023
+33657248,"Resources,-Consents-v2.1.0-e-Fin,-Customer-v2.0.1-",resources,v2.1,26-09-2023
+43215815,Belvo-Open-Finance-v1.0,resources,v2.1,03-10-2023
+58160789,Open-Finance-Brazil,resources,v2.1,26-09-2023
+59285411,Banco-Pan-OpenFinance-V1.1,resources,v2.1,17-10-2023
+59588111,BV-OpenFinance-2.0,resources,v2.1,05-10-2023
+60701190,resources-4b-test-plan-v2,resources,v2.1,20-09-2023
+60746948,Banco-Bradesco---Open-Finance-Brasil,resources,v2.1,23-09-2023
+61186680,Resources---v2.1.0,resources,v2.1,25-09-2023
+61820817,Banco-Paulista-V1.0,resources,v2.1,03-10-2023
+74014747,Ágora---Open-Finance-Brasil,resources,v2.1,25-09-2023
+90400888,5.1.9,resources,v2.1,28-09-2023
+92702067,Banrisul-Open-Finance-4B-v1.0.0-,resources,v2.1,21-09-2023
+00000000,API BB v2,unarranged-overdraft,v2-OL,05-10-2022
+00000010,Mock Bank Phase 2v2,unarranged-overdraft,v2-OL,22-11-2022
+00315557,Open-Finance-v2.0.0,unarranged-overdraft,v2,24-08-2023
+00360305,Caixa Econômica Federal,unarranged-overdraft,v2-OL,06-10-2022
+01181521,Open Finance 2.0.1,unarranged-overdraft,v2-OL,03-10-2022
+02038232,Unarranged overdraft api test 2.0.1,unarranged-overdraft,v2-OL,06-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - BUSINESS,unarranged-overdraft,v2-OL,05-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - CORPORATE,unarranged-overdraft,v2-OL,04-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - DIGITAL,unarranged-overdraft,v2-OL,04-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0 - MAIS,unarranged-overdraft,v2-OL,07-10-2022
+30306294,Banco BTG Pactual Open Banking v2.0,unarranged-overdraft,v2-OL,27-09-2022
+30306294,Banco BTG Pactual Open Banking v2.0,unarranged-overdraft,v2,27-09-2022
+30620610,Customer Data - API Version 2,unarranged-overdraft,v2-OL,23-02-2023
+33479023,Banco Citibank – Open Banking Brazil V2.0,unarranged-overdraft,v2-OL,17-10-2022
+58160789,Safra Open Finance 2.0,unarranged-overdraft,v2-OL,07-10-2022
+59588111,BV-OpenFinance-2.0,unarranged-overdraft,v2-OL,07-10-2022
+60701190,Itau Unibanco Major,unarranged-overdraft,v2-OL,06-10-2022
+60746948,Banco Bradesco PF - Open Finance Brazil v2.0,unarranged-overdraft,v2-OL,04-10-2022
+60746948,Banco Bradesco PJ - Open Finance Brazil v2.0,unarranged-overdraft,v2-OL,04-10-2022
+60889128," Banco Sofisa 20-12-2022",unarranged-overdraft,v2-OL,22-12-2022
+61186680,Banco BMG Open Banking 2.0.1,unarranged-overdraft,v2-OL,05-10-2022
+90400888,Santander Open Banking 2.0.1,unarranged-overdraft,v2-OL,03-10-2022
+92702067,Banrisul Open Finance v2.0.0,unarranged-overdraft,v2-OL,04-10-2022
+92894922,Release Fase 2 V2,unarranged-overdraft,v2-OL,07-10-2022

@@ -1,0 +1,136 @@
+Id da Organização,Deployment,API,Version,Data
+00000000,API Payments BB v2,payments,v2,31-01-2023
+00000208,BRB Auth Server 1.0,payments,v2,31-01-2023
+00204963,Open Finance v2.0.0,payments,v2,01-02-2023
+00315557,Unicred Payment Pix Versão 2.0.0 ,payments,v2,16-02-2023
+00360305,Caixa Econômica Federal,payments,v2,31-01-2023
+00416968,OPBK Inter PF 2.0,payments,v2,30-01-2023
+00416968,OPBK Inter PJ 2.0,payments,v2,30-01-2023
+00517645,BRP OB v.2.1,payments,v2,31-01-2023
+00556603,Banco Bari - Open Banking - Fase 3 - V2,payments,v2,03-02-2023
+00795423,Semear-Lina-OPFI-payments-v.2.0.0,payments,v2,31-01-2023
+01027058,Cielo Open Finance 2.0.0,payments,v2,30-01-2023
+01073966,23.0.1.1,payments,v2,01-02-2023
+01181521,Open Finance V2.0.0,payments,v2,30-01-2023
+01330387,Open Finance v2.0.0,payments,v2,01-02-2023
+01722480,API PAYMENTS V2,payments,v2,30-01-2023
+01858774,banco BV - Certificação API Payments  v2.0.0,payments,v2,31-01-2023
+02038232,Payments API V2 - INIC DICT MANU QRES QRDN,payments,v2,31-01-2023
+02318507,BANCO KEB HANA 1.0.1,payments,v2,01-02-2023
+02405189,Central Ailos Open Finance 1.0.0,payments,v2,14-02-2023
+03046391,Uniprime Central Open Finance 2.0.0,payments,v2,30-01-2023
+03130170,5.0.8 build: fc079f6449fcc4eba3954f37bbcf92710f8a8,payments,v2,01-02-2023
+03311443,V2.0.0,payments,v2,01-02-2023
+03323840,Banco Alfa – Open Banking Brazil V2.0,payments,v2,30-01-2023
+03427097,Central Ailos Open Finance 1.0.0,payments,v2,14-02-2023
+03461243,Central Ailos Open Finance 1.0.0,payments,v2,10-02-2023
+04307598,2.0.0,payments,v2,10-03-2023
+04632856,OPB v2.0.0-rc2.0.0,payments,v2,01-02-2023
+04831810,2.0.0,payments,v2,12-04-2023
+04831810,Open Finance v2.0.0,payments,v2,01-02-2023
+04862600,Open Banking Brasil V2.0,payments,v2,02-02-2023
+04902979,Banco da Amazonia Openbanking v2,payments,v2,15-02-2023
+04913711,v2.0.0,payments,v2,02-03-2023
+05192316,Open Finance v2.0.0,payments,v2,01-02-2023
+05442029,CASADOCREDITOOB 2.0.0,payments,v2,30-01-2023
+05979692,Central Ailos Open Finance 1.0.0,payments,v2,14-02-2023
+07237373,BNB Open Finance Brasil 2.0.0,payments,v2,30-01-2023
+07679404,Banco Topazio Open Finance 2.0.0,payments,v2,31-01-2023
+08075352,Central Ailos Open Finance,payments,v2,14-02-2023
+08240446,Open Finance v2.0.0,payments,v2,01-02-2023
+08253539,Open Finance v2.0.0,payments,v2,01-02-2023
+08561701,PagSeguro 1.2.0,payments,v2,30-01-2023
+08850613,Central Ailos Open Finance 1.0.0,payments,v2,14-02-2023
+09089356,Payments-V2,payments,v2,30-01-2023
+09313766,Open Finance v2.0.0,payments,v2,03-02-2023
+09464032,Midway - Open Banking Opus - Fase 3 - v2,payments,v2,01-02-2023
+09512539,Central Ailos Open Finance 1.0.0,payments,v2,14-02-2023
+09590601,Central Ailos Open Finance 1.0.0,payments,v2,14-02-2023
+10143743,Central Ailos Open Finance,payments,v2,14-02-2023
+10218474,Central Ailos Open Finance 1.0.0,payments,v2,14-02-2023
+10311218,Central Ailos Open Finance 1.0.0,payments,v2,14-02-2023
+10398952," Cresol-Pagamentos-V1.5.0",payments,v2,01-02-2023
+10573521,Mercado Pago Open Banking v2.0,payments,v2,26-01-2023
+10664513,Agibank 1.0.0,payments,v2,27-01-2023
+11275560,RecargaPay Payments v2.0.0,payments,v2,28-03-2023
+11476673,Payments API V2 - INIC DICT MANU QRES QRDN,payments,v2,31-01-2023
+11581339,Open Finance v2.0.0,payments,v2,23-02-2023
+11703662,Travelex v2.0,payments,v2,02-05-2023
+11970623,API Open Finance Banco Senff V2.0.0,payments,v2,31-01-2023
+13009717,BANESE OpenBanking v2.0,payments,v2,01-02-2023
+13140088,Bankly – Open Bankly 2.0.0,payments,v2,01-02-2023
+13203354,Fitbank Open Banking 1.0.0,payments,v2,29-03-2023
+13370835,JANUARY-2023,payments,v2,31-01-2023
+13884775,Hub Authorization Server v2.0.0,payments,v2,14-02-2023
+13935893,Celcoin - Open Banking Brasil v2.0,payments,v2,31-01-2023
+14388334," 2.0.0",payments,v2,16-02-2023
+15111975,Iugu-Lina-OPFI-v.1.0.0,payments,v2,07-03-2023
+15357060,Pre Produção,payments,v2,13-03-2023
+15357060,Produção,payments,v2,16-03-2023
+16501555,open-finance-dispatcher v0.35.3,payments,v2,30-01-2023
+16779741,Central Ailos Open FInance 1.0.0,payments,v2,14-02-2023
+17184037," 2.0.0",payments,v2,02-02-2023
+17192451,Open Banking Brazil Payments v2.0.0,payments,v2,31-01-2023
+17351180,API de Pagamentos v2.0.0,payments,v2,10-02-2023
+18236120,Nu Open Banking 1.0.0,payments,v2,30-01-2023
+19540550,Asaas Open Finance 2.0.0,payments,v2,03-02-2023
+20520298,Payments API V2 - INIC-DICT-MANU-QRES-QRDN - 5.0.8,payments,v2,08-02-2023
+20855875,Open Finance - Payments v2.0.0,payments,v2,18-04-2023
+20855875,Payments API V2 - INIC-DICT-MANU-QRES-QRDN,payments,v2,29-03-2023
+21018182,Ebanx January 2023,payments,v2,30-01-2023
+21332862,Crystal OFB v2.0.0,payments,v2,13-02-2023
+22896431,PicPay Open Banking 2.0.0,payments,v2,01-02-2023
+27098060,Digio - Open Banking - Fase 3 - V2,payments,v2,31-01-2023
+27098060,Digio Uber - Open Banking - Fase 3 - V2,payments,v2,31-01-2023
+27351731,Lojas Renner – Comprar Roupas – version 15.06.0,payments,v2,31-01-2023
+28127603,Open Finance Banestes 2.0,payments,v2,27-01-2023
+28195667,Banco ABC Open Finance 1.0,payments,v2,30-01-2023
+30306294,Banco BTG Pactual – BTG Banking Open Finance v2.0,payments,v2,14-02-2023
+30306294,Banco BTG Pactual – BTG Empresas Open Finance v2.0,payments,v2,01-02-2023
+30723886,Banco Modal Open Finance v2.0.0,payments,v2,01-02-2023
+30980539,Iniciador SaaS Detentora v1.0.2,payments,v2,30-01-2023
+31872495,5.0.8 build: fc079f6449fcc4eba3954f37bbcf92710f8a8,payments,v2,30-01-2023
+31880826,Open Finance v2.0.0,payments,v2,01-02-2023
+31895683,Banco Industrial Open Finance v2.0.0,payments,v2,01-02-2023
+32402502,QI Open Finance v2.0,payments,v2,01-02-2023
+33172537,J.P. Morgan Open Finance v2,payments,v2,31-01-2023
+33264668,Payments API V 2.0.0 - INIC-DICT-MANU-QRES-QRDN,payments,v2,31-01-2023
+33479023,Open Banking Brazil V2.0,payments,v2,31-01-2023
+33923798,OpenFinance-BancoMaster 2.0,payments,v2,01-02-2023
+34335592,ÓTIMO SCD OBB V2,payments,v2,30-01-2023
+36586946,Crystal OFB v2.0.0,payments,v2,14-02-2023
+37241230,Open Banking Brazil v2.0.0,payments,v2,14-02-2023
+37715993,Accredito-Lina-OPFI-v.1.0.0,payments,v2,22-03-2023
+37880206,Cora Auth Server 1.0.1,payments,v2,31-01-2023
+38129006,Numbrs Open Finance v2.0.0,payments,v2,01-02-2023
+40654622,Open Finance v2.0.0,payments,v2,01-02-2023
+43180355,Open Banking - Fase 3 - V2,payments,v2,01-02-2023
+45246410,Banco Genial - Go!BaaS 1.3,payments,v2,01-02-2023
+53518684,V 2.0,payments,v2,31-01-2023
+54403563,Banco Arbi 1.1.0,payments,v2,10-03-2023
+58160789,Safra Open Finance 2.0,payments,v2,30-01-2023
+58616418,Banco Fibra Authorization Server v2.0,payments,v2,27-01-2023
+59285411,Banco Pan OpenFinance v1.2,payments,v2,30-01-2023
+59588111,banco BV - Certificação API Payments  v2.0.0,payments,v2,31-01-2023
+60701190,Open Banking Brazil Payments v2.0.0,payments,v2,31-01-2023
+60746948," NEXT",payments,v2,26-01-2023
+60746948,Bradesco PF,payments,v2,26-01-2023
+60746948,Bradesco PJ,payments,v2,26-01-2023
+60779196,Payments v2.0.0,payments,v2,06-02-2023
+60850229,Payments API V2 - INIC DICT MANU QRES QRDN,payments,v2,03-02-2023
+60889128,V2.0,payments,v2,31-01-2023
+61024352,Payments API V2 - INIC DICT MANU QRES QRDN,payments,v2,06-02-2023
+61186680,Banco BMG Open Banking 2.0.1,payments,v2,01-02-2023
+62109566,Payments 2.0,payments,v2,27-01-2023
+62232889,Banco Daycoval - Open Banking Brazil V2.0,payments,v2,30-01-2023
+68900810,Banco Rendimento – Open Banking Brazil V2.0,payments,v2,31-01-2023
+71027866,Open Banking-Banco Bs2 1.0,payments,v2,07-02-2023
+76461557,23.0.1.1,payments,v2,30-01-2023
+78157146,Crystal OFB v2.0.0,payments,v2,14-02-2023
+78632767,Ourinvest Openbanking-v3,payments,v2,06-02-2023
+81723108,5.0.8 build,payments,v2,02-02-2023
+82639451,Central Ailos Open Finance 1.0.0,payments,v2,08-02-2023
+90400888,Open Banking Brazil v2.0.0,payments,v2,31-01-2023
+92702067,v2.0.0,payments,v2,26-01-2023
+92874270," 2.0.0",payments,v2,06-03-2023
+92894922,Release Fase 3 V2,payments,v2,14-02-2023

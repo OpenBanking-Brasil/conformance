@@ -1,0 +1,9 @@
+{
+	"api": "credit-fixed-incomes_v1",
+	"sd": "28110",
+	"docusign_id": "AB37AF2C-D0E7-4725-825D-79C9EA0B93A5",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=lhRwnnTKqCyOV\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=yzZUr3ttvclsg\u0026public=true"
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"api": "treasure-titles_v1",
+	"sd": "28254",
+	"docusign_id": "F08DBC05-327F-4B54-AB2F-21CED9C51D36",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=XZQcKlcYBrcVT\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Uce8Fn2asq98J\u0026public=true"
+	]
+}
