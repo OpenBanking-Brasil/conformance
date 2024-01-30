@@ -1,0 +1,81 @@
+name: table-generator
+
+on:
+  schedule:
+      - cron: '0 9 * * 1-5'
+
+jobs:
+
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v3
+
+    - name: Set up Go
+      uses: actions/setup-go@v3
+      with:
+        go-version: 1.18
+
+    - name: Run conformance table generator for phase2 v2
+      env:
+        PAT: ${{ secrets.PAT }}
+      run: |
+        cd conformance_table_generator/
+        go run main.go -phase phase2v2 -apis "accounts_2.0 business_2.0 consents_2.0 consents_2.1 credit-card_2.0 financings_2.0 invoice-financings_2.0 loans_2.0 personal_2.0 resources_2.0 resources_2.1 unarranged-overdraft_2.0"
+    
+    - name: Run export data for phase2 v2
+      run: |
+        cd export_data/
+        go run main.go -t phase2 -v 2
+
+    - name: Run conformance table generator for phase2 v2.1
+      env:
+        PAT: ${{ secrets.PAT }}
+      run: |
+        cd conformance_table_generator/
+        go run main.go -phase phase2v2.1 -apis "consents_2.1 resources_2.1"
+
+    - name: Run conformance table generator for phase3 v2
+      env:
+        PAT: ${{ secrets.PAT }}
+      run: |
+        cd conformance_table_generator/
+        go run main.go -phase phase3v2 -apis payments_2.0
+    
+    - name: Run export data for phase3 v2
+      run: |
+        cd export_data/
+        go run main.go -t phase3 -v 2
+
+    - name: Run conformance table generator for phase3 v3
+      env:
+        PAT: ${{ secrets.PAT }}
+      run: |
+        cd conformance_table_generator/
+        go run main.go -phase phase3v3 -apis payments_3.0
+
+    - name: Run export data for phase3 v1
+      run: |
+        cd export_data/
+        go run main.go -t phase3 -v 1
+
+    - name: Run conformance table generator for payments webhook
+      env:
+        PAT: ${{ secrets.PAT }}
+      run: |
+        cd conformance_table_generator/
+        go run main.go -phase phase3-webhookv1 -apis webhook_1.0
+    
+    - name: Get current date
+      id: date
+      run: echo "::set-output name=date::$(date +'%d-%m-%Y')"
+    
+    - name: Create Pull Request
+      uses: peter-evans/create-pull-request@v4
+      with:
+        commit-message: conformance table routine - ${{ steps.date.outputs.date }}
+        title: conformance table routine - ${{ steps.date.outputs.date }}
+        branch: table-routine
+        delete-branch: true
+        reviewers: EkkeErick, HarryMooreRaidiam, PMartins03

@@ -1,0 +1,33 @@
+repos:
+  - repo: local
+    hooks:
+      - id: check-file-names
+        name: Check File Names
+        language: python
+        entry: python -m scripts.check-file-names
+        args: [
+          "accounts_v2.0.1", "bank-fixed-incomes_v1.0.0", "business_v2.0.1",
+          "consents_v2.0.1", "consents_v2.1.0", "credit-card_v2.0.1",
+          "credit-fixed-incomes_v1.0.0", "financings_v2.0.1", "funds_v1.0.0",
+          "invoice-financings_v2.0.1", "loans_v2.0.1", "payments_v2.0.0",
+          "payments_v2.0.1", "payments_v3.0.0", "personal_v2.0.1",
+          "resources_v2.0.1", "resources_v2.1.0", "treasure-titles_v1.0.0",
+          "unarranged-overdraft_v2.0.1", "variable-incomes_v1.0.0"
+        ]
+        exclude: ".*"
+        always_run: true
+      - id: check-json-files
+        name: Check Json Files
+        language: python
+        entry: python -m scripts.check-json-files
+        args: [
+          "accounts/2.0.1/", "bank-fixed-incomes/1.0.0/", "business/2.0.1/",
+          "consents/2.0.1/", "consents/2.1.0/", "credit-card/2.0.1/",
+          "credit-fixed-incomes/1.0.0/", "financings/2.0.1/", "funds/1.0.0/",
+          "invoice-financings/2.0.1/", "loans/2.0.1/", "payments/2.0.0/",
+          "payments/2.0.1/", "payments/3.0.0/", "personal/2.0.1/",
+          "resources/2.0.1/", "resources/2.1.0/", "treasure-titles/1.0.0/",
+          "unarranged-overdraft/2.0.1/", "variable-incomes/1.0.0"
+        ]
+        exclude: ".*"
+        always_run: true

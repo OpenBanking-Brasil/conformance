@@ -1,0 +1,10 @@
+name: pre-commit
+on: [push]
+jobs:
+  pre-commit:
+    if: github.actor != 'dependabot[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: pre-commit
+        uses: pre-commit/action@v2.0.3
