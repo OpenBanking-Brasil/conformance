@@ -1,0 +1,10 @@
+{
+	"api": "payments_v3",
+	"sd": "36307",
+	"docusign_id": "3314B279-5EB1-4817-A040-1A395BF09C1E",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=NC9v64xySjNua\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Qtx9Gl8VTMO5w\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=565D2njN17rvb\u0026public=true"
+	]
+}
