@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.0",
+	"sd": "39329",
+	"well-known": "https://id.opf.itau.com.br/.well-known/openid-configuration\r\nhttps://id.itaucard.opf.itau.com.br/.well-known/openid-configuration\r\nhttps://id.itaubba.opf.itau.com.br/.well-known/openid-configuration\r\nhttps://id.itauemps.opf.itau.com.br/.well-known/openid-configuration\r\nhttps://id.ion.opf.itau.com.br/.well-known/openid-configuration\r\nhttps://id.credicard.opf.itau.com.br/.well-known/openid-configuration\r\nhttps://id.iti.opf.itau.com.br/.well-known/openid-configuration\r\nhttps://id.playbank.opf.itau.com.br/.well-known/openid-configuration\r\nhttps://id.hipercard.opf.itau.com.br/.well-known/openid-configuration\r\nhttps://id.cartaoluiza.opf.itau.com.br/.well-known/openid-configuration\r\nhttps://id.rede.opf.itau.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=klwSLoEe2tJI7\u0026public=true"
+	]
+}
