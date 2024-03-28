@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.0",
+	"sd": "39327",
+	"well-known": "https://login.openbanking.caixa.gov.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=LV2p5h6vSFFPT\u0026public=true"
+	]
+}
