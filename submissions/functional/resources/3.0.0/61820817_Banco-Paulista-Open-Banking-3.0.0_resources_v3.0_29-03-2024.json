@@ -1,0 +1,8 @@
+{
+	"api": "resources_v3.0",
+	"sd": "39344",
+	"well-known": "https://api.bp.dev.hub.fsapps.io/orgs/bp/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=3J085BZVdFXZP\u0026public=true"
+	]
+}
