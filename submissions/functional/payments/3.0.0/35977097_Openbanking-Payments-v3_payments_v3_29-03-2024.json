@@ -1,0 +1,10 @@
+{
+	"api": "payments_v3",
+	"sd": "38357",
+	"well-known": "https://api.dev.open.upp.com.br/orgs/upp/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=wLPiXvtWN6LYT\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=aVUfH7kg0JBqp\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=zy9n1Tb3ug9P0\u0026public=true"
+	]
+}
