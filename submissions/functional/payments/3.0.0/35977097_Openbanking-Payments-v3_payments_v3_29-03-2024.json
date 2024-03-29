@@ -1,7 +1,6 @@
 {
 	"api": "payments_v3",
 	"sd": "38357",
-	"docusign_id": "850E1CF0-CFA3-4C56-96A9-3E9FBC520242",
 	"well-known": "https://api.dev.open.upp.com.br/orgs/upp/.well-known/openid-configuration",
 	"test_plan_uri": [
 		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=wLPiXvtWN6LYT\u0026public=true",
