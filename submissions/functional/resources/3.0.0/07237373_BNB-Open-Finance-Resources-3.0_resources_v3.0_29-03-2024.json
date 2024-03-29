@@ -1,0 +1,8 @@
+{
+	"api": "resources_v3.0",
+	"sd": "39394",
+	"well-known": "https://auth.sandbox.openfinance.bnb.gov.br/of-auth/realms/bnb-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=J77N8zI4RGDS3\u0026public=true"
+	]
+}
