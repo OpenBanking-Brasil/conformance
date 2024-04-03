@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.0",
+	"sd": "39262",
+	"well-known": "https://openbanking-h.api.santander.com.br/open-banking/security/v2/santander-pf/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=F1O1Se46ICCOV\u0026public=true"
+	]
+}
