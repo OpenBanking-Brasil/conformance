@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "39769",
+	"well-known": "https://auth.arbi.app-terosopenbanking.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FEpZxaOGkIRrO\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=vVS1EyXaZQQ2C\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=7K8TzLKWfDOWZ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=F8rFciVA2rokw\u0026public=true"
+	]
+}
