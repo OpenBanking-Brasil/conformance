@@ -1,0 +1,8 @@
+{
+	"api": "exchanges_v1.0",
+	"sd": "39446",
+	"well-known": "https://openfinance-homol.sicoob.com.br/orgs/61185d64576d510022fa62c4/.well-known/openid-configuration\r\n",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=h7SS5w7VKyq28\u0026public=true"
+	]
+}
