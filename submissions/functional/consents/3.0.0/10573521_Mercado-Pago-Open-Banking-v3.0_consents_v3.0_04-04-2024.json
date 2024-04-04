@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.0",
+	"sd": "39438",
+	"well-known": "https://api.mercadopago.com/prod/open-banking/oidc/v1/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=7xqYv9SoFa74p\u0026public=true"
+	]
+}
