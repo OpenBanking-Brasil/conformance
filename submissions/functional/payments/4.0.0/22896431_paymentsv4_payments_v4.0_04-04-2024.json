@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "39613",
+	"well-known": "https://oidc.openbanking.picpay.com/.well-known/openid-configuration\r\nhttps://oidc.openbanking.picpay.com/pj/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=NKLDavfozRO5c\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=dMawga4Kyhigv\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=qt3YOBBekmYeu\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=kYRKeRx0wwBTQ\u0026public=true"
+	]
+}
