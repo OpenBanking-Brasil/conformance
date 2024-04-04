@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.0",
+	"sd": "39350",
+	"well-known": "PRD https://auth-openbanking.bancopan.com.br/.well-known/openid-configuration\r\nSandbox https://auth-openbanking-hml.bancopan.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ONLkfG0ioJ5Fk\u0026public=true"
+	]
+}
