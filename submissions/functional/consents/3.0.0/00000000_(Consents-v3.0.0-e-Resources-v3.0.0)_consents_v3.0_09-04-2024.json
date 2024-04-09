@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.0",
+	"sd": "39640",
+	"well-known": "https://oauth.bb.com.br/oauth/of/ourocardbb/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=u1gRYJtTJj2Oo\u0026public=true"
+	]
+}
