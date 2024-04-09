@@ -1,0 +1,10 @@
+{
+	"api": "payments_v3",
+	"sd": "39984",
+	"well-known": "https://openbanking.ibiam.sulcrediibiam.com.br/orgs/ibiam/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=JsJt4eshynL4x\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=aoa6LutHVoo3e\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=0uu1r1TP6hBN3\u0026public=true"
+	]
+}
