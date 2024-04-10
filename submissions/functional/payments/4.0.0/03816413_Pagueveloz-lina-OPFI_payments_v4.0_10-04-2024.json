@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40174",
+	"well-known": "https://api.pagueveloz.hml.linaob.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=H0PmO9wVbQRP6\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=mBXA7xUcEl8bg\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=23d9HR2dB7jJz\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=IY5UfIAq6HIDA\u0026public=true"
+	]
+}
