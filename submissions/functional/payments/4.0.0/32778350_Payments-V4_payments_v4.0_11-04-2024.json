@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40422",
+	"well-known": "https://auth.openbanking.amedigital.com/of-auth/realms/amedigital/.well-known/openid-configuration\r\n",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=TNkMRy8TtfMcd\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=oybO7stP0c7dp\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=NgOUY8tJqQObu\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=e8NCjZypEbTSJ\u0026public=true"
+	]
+}
