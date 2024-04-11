@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40462",
+	"well-known": "https://login.openbanking.caixa.gov.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=LKCsuYkQpl2TV\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=diKNpHwgjHZXN\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=L1FwnZR3Ug2s9\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9usJcNaUCqVuo\u0026public=true"
+	]
+}
