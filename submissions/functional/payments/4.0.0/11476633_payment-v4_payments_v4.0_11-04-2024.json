@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40482",
+	"well-known": "https://authobk.bancorandon.com/of-auth/realms/randon/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=vHx88kPX7ZImQ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=UpWZfahZYzyHU\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=bPZdcuW4Lng1l\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=dopDjRYapcKDZ\u0026public=true"
+	]
+}
