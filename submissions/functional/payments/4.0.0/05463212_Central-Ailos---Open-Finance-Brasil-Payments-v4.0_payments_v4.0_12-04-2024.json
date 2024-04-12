@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40566",
+	"well-known": "https://auth-sandbox.openfinance.ailos.coop.br/of-auth/realms/ailos-sbx/.well-known/openid-configuration\r\nhttps://auth-sandbox.openfinance.ailos.coop.br/of-auth/realms/ailos-sbx/.well-known/openid-configuration\r\nhttps://auth-sandbox.openfinance.ailos.coop.br/of-auth/realms/ailos-sbx/.well-known/openid-configuration\r\nhttps://auth-sandbox.openfinance.ailos.coop.br/of-auth/realms/ailos-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=lysMUqmjSaAUV\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=TgkHjwIEFztgn\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=5qRCDNDNC3HpK\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=j8vzjCNWHdJCy\u0026public=true"
+	]
+}
