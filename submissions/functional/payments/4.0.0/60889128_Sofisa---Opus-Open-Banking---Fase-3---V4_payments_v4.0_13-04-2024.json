@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40660",
+	"well-known": "https://authorization.openapi.sofisa.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jdSrVpv5cqo8P\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=kr77pTzZ1G9ty\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=J2EGczi3HP08p\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=O548v0LqENKqU\u0026public=true"
+	]
+}
