@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40772",
+	"well-known": "https://auth.sandbox.directory.openbankingbrasil.org.br/.well-known/openid-configuration\r\nhttps://auth.dev.open.banqi.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Y9PC7o6CtNG7w\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ak89TbOVY9jM5\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=X6IR5OP3wE674\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ZE2ai1LpCX6eM\u0026public=true"
+	]
+}
