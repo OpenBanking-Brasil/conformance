@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40770",
+	"well-known": "https://api.openfinance.beeteller.com/hml/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=688L9EzEklcAF\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=puIZK1bbzYD7b\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=HYsPjTnGOTIhg\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Wi6ilNJLgLn7l\u0026public=true"
+	]
+}
