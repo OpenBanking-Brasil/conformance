@@ -1,9 +1,9 @@
 {
 	"api": "automatic-payments_v1",
-	"sd": "40706",
-	"well-known": "https://auth-business.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration",
+	"sd": "40704",
+	"well-known": "https://auth.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration",
 	"test_plan_uri": [
-		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=MHgYzcbElWzVl\u0026public=true",
-		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=G1eNTx3aW6Jui\u0026public=true"
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9WEBfnvedtueB\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=MNh1GPheQyt7J\u0026public=true"
 	]
 }
