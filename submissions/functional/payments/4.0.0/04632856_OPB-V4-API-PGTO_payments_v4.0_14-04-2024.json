@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40561",
+	"well-known": "https://auth1.openbanking.credisisbank.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=M7KpCjt6gR3lb\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DswqYeVEtWRHC\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=s5oZXhoq7C2uD\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=h5ZnlKuhSkvw3\u0026public=true"
+	]
+}
