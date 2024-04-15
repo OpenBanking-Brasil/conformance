@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "40658",
+	"well-known": "https://api.of.recargapay.com.br/orgs/recarga-pay/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FNvKNQFSVzm0J\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=HDeNdPZ6F3tCZ\u0026public=true"
+	]
+}

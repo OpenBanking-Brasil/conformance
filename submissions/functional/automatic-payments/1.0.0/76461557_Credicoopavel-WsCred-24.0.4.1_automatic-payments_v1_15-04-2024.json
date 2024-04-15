@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "40737",
+	"well-known": "https://openbanking-homologacao.credicoopavel.com.br/open-banking/auth/.well-known/openid-configuration\r\nhttps://openbanking.credicoopavel.com.br/open-banking/auth/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=8Xo3Xi0qHRFg2\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=59xr4BGHJX1CF\u0026public=true"
+	]
+}
