@@ -1,0 +1,11 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "40793",
+	"well-known": "https://otimoscd.app/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ZFc9Gd9ExYxAm\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=7cZqynSy74fBe\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=XdM7j2nOj8aAu\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=a5DwqsmjFwgZY\u0026public=true"
+	]
+}
