@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40583",
+	"well-known": "https://open.btgmais.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=XJe4DvaVGwoJW\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=AbrYUfwqsZT7i\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=UFaB5rKH1eVmQ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=RF6c9LiDl1Adb\u0026public=true"
+	]
+}
