@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "40723",
+	"well-known": "https://acp.bancofibra.com.br/orgs/fibra/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=zEOdZ4uRKK6As\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=vtiVIP7f8ehaa\u0026public=true"
+	]
+}

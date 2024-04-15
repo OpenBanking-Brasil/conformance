@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "40739",
+	"well-known": "https://openbanking-homologacao.sulcrediab.com.br/open-banking/auth/.well-known/openid-configuration\r\nhttps://openbanking.sulcrediab.com.br/open-banking/auth/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jidvDUPQPca6F\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=h8lnDqWmp1TvG\u0026public=true"
+	]
+}
