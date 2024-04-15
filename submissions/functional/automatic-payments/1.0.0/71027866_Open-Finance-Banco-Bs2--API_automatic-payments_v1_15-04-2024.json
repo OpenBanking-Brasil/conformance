@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "40831",
+	"well-known": "https://auth1.openbanking.bancobs2.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=BENBG3fPaP6Te\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=GMhQp1Fgl9hRs\u0026public=true"
+	]
+}
