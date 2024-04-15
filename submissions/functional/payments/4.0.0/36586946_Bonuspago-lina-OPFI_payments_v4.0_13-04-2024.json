@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40616",
+	"well-known": "https://api.bonuspago.hml.linaob.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=vOTgQOvkF95i1\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=QopnP2Uj59jet\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=lKn5ZTH2tEAvl\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=UkLmOE6brVaXe\u0026public=true"
+	]
+}
