@@ -1,11 +1,11 @@
 {
 	"api": "payments_v4.0",
-	"sd": "40791",
-	"well-known": "https://api.mercadopago.com/prod/open-banking/oidc/v1/.well-known/openid-configuration",
+	"sd": "40575",
+	"well-known": "https://api.mercadopago.com/prod/open-banking/oidc/v1/.well-known/openid-configuration\r\n",
 	"test_plan_uri": [
-		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=JZXS00GIsBEvN\u0026public=true",
 		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=H2rYZ0RywOjnN\u0026public=true",
 		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=QDItuCEx62p9L\u0026public=true",
-		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=cC9bMn5V9ZM8T\u0026public=true"
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=cC9bMn5V9ZM8T\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=JZXS00GIsBEvN\u0026public=true"
 	]
 }
