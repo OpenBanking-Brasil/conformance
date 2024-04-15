@@ -1,0 +1,8 @@
+{
+	"api": "exchanges_v1.0",
+	"sd": "40042",
+	"well-known": "https://api-openbanking.bvopen.com.br/oidc/v1/internet-banking/.well-known/openid-configuration\r\nhttps://api-openbanking.bvopen.com.br/oidc/v1/app-bv/.well-known/openid-configuration\r\nhttps://api-openbanking.bvopen.com.br/oidc/v1/minha-bv/.well-known/openid-configuration\r\nhttps://api-openbanking.bvopen.com.br/oidc/v1/private-bv/.well-known/openid-configuration\r\nhttps://api-openbanking.bvopen.com.br/oidc/v1/meliuz/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=rCypES2w7NLUH\u0026public=true"
+	]
+}
