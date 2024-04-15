@@ -1,0 +1,8 @@
+{
+	"api": "resources_v3.0",
+	"sd": "39940",
+	"well-known": "https://api-mtls.safra.com.br/open-banking/auth/realms/SafraPF/.well-known/openid-configuration\r\nhttps://api-mtls.safra.com.br/open-banking/auth/realms/SafraPay/.well-known/openid-configuration\r\nhttps://api-mtls.safra.com.br/open-banking/auth/realms/SafraFinanceira/.well-known/openid-configuration\r\nhttps://api-mtls.safra.com.br/open-banking/auth/realms/SafraPJ/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=wbwIiwZp3OTta\u0026public=true"
+	]
+}
