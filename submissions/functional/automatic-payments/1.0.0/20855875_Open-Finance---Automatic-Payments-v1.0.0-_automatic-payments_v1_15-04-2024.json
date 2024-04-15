@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "40655",
+	"well-known": "https://auth.meifacil.com/of-auth/realms/meifacil/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=kylCI9vQH1k7g\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=X1j4EAOCOx2t9\u0026public=true"
+	]
+}
