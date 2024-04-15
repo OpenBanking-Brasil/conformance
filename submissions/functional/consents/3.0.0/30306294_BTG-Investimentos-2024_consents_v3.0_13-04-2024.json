@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.0",
+	"sd": "40573",
+	"well-known": "https://open.btgpactualdigital.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FYTPH79EKixZD\u0026public=true"
+	]
+}
