@@ -1,0 +1,10 @@
+{
+	"api": "payments_v3",
+	"sd": "40179",
+	"well-known": "Certificação FAPI Perfil único junto a OpenID\r\n\r\nBR-OF Adv. OP w/ Private key, PAR (FAPI-BR v2)\r\nBR-OF Adv. OP DCR (FAPI-BR v2)\r\n\r\nEvidencias em anexo.",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9GxSJ82GL9lUt\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=eTVBns0gGvDXy\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=JUQrgyR5zXlJZ\u0026public=true"
+	]
+}
