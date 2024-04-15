@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40400",
+	"well-known": "https://auth-business.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Ubr7RVLAqpZTI\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=kNrLggdufpDQz\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Rcm3KBSPQluio\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=3ERvxJlIvY4Ws\u0026public=true"
+	]
+}
