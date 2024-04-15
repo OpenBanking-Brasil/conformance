@@ -1,0 +1,8 @@
+{
+	"api": "exchanges_v1.0",
+	"sd": "40567",
+	"well-known": "https://open.btgmais.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=SO2IaKSK46tua\u0026public=true"
+	]
+}
