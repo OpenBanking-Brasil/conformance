@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40491",
+	"well-known": "https://openbanking.api.nubank.com.br/api/pub/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=aRm2MFBKlbTZi\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=B19qabBrK6Uzl\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=7CmewGn1YVXtT\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=aepmCa0sBoJR6\u0026public=true"
+	]
+}
