@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.0",
+	"sd": "39827",
+	"well-known": "Consents - https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=g2pCXxmf53pXz\u0026public=true\r\nResources - https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=mhdC0T2C7O2WY\u0026public=true",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=g2pCXxmf53pXz\u0026public=true"
+	]
+}
