@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "39437",
+	"well-known": "https://api.sandbox.c6bank.com.br/auth/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=qw7CIkb3BZpLR\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=0Mu4TFsc8x79P\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=hOK5jtWljUiM5\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ClLJgetbnYJMH\u0026public=true"
+	]
+}
