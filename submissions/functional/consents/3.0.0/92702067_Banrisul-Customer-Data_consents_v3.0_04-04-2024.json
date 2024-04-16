@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.0",
+	"sd": "39709",
+	"well-known": "https://openbanking.banrisul.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=79K19Ufq5MRZh\u0026public=true"
+	]
+}
