@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.0",
+	"sd": "39611",
+	"well-known": "https://oidc.openbanking.picpay.com/.well-known/openid-configuration\r\nhttps://oidc.openbanking.picpay.com/pj/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=G5ZjIaWg23oKu\u0026public=true"
+	]
+}
