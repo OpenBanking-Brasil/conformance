@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "40713",
+	"well-known": "https://auth.sandbox.openbanking.daycoval.com.br/auth/realms/provider/.well-known/openid-configuration\r\n\r\n",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=CoMcBjfBCuC5F\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=XqlvGlGXlBZNo\u0026public=true"
+	]
+}
