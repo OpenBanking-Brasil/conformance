@@ -1,0 +1,10 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "40821",
+	"well-known": "https://open-finance.abcbrasil.com.br/orgs/banco-abc/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gWKiLrz0cojgf\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=b5wwITz6Rr0Ym\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=3777JIx19UOGC\u0026public=true"
+	]
+}
