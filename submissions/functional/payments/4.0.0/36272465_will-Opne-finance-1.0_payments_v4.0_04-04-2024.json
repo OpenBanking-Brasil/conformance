@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "39672",
+	"well-known": "https://api.willbank.dev.hub.fsapps.io/orgs/willbank/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=5FludhGYYEx6E\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=mMd6a4tCM3eVo\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=uqrD72Y6JBie8\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=eh4DTh5DXY5bS\u0026public=true"
+	]
+}

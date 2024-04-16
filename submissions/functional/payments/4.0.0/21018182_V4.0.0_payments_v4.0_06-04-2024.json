@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40016",
+	"well-known": "https://auth.openbanking-h.ebanx.com/auth/realms/provider/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=dqbGc9GGPqwg1\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ZJNcNJoMI0VFZ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=1VUwCOBPsA7tW\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=6pFdrCz9ijfCd\u0026public=true"
+	]
+}

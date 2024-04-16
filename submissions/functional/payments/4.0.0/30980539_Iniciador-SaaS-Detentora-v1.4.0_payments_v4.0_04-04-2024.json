@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "39412",
+	"well-known": "https://api.u4c-iniciador.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=WHSiTgMNbILhC\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=iZT0pO0kwTit3\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=6b7fPTfcmxod1\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=zx9glWf8jnDto\u0026public=true"
+	]
+}

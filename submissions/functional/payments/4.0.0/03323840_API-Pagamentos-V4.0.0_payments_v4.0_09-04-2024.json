@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40141",
+	"well-known": "https://sandbox.openbanking.alfa.com.br/auth/realms/provider/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=wzqQZB7H2W48w\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=eKhPhuXbCeEGd\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=YQXjGZfPd8nxu\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=GTJu4R7pKS0lC\u0026public=true"
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "40722",
+	"well-known": "https://auth-sandbox.kebhana.com.br/of-auth/realms/kebhana-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=PRHLN0AnV9sca\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=VyRAqhfbiTKvw\u0026public=true"
+	]
+}

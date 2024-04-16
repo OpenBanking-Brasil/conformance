@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.0",
+	"sd": "39413",
+	"well-known": "https://api.iniciador.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?public=true\u0026plan=MhlBDYOBIPrdc"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "39387",
+	"well-known": "Sandbox: https://api-uat.bvopen.com.br/oidc/v1/internet-banking/.well-known/openid-configuration\r\nProdução: https://api-openbanking.bvopen.com.br/oidc/v1/internet-banking/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=tP6yALzvnd6zT\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=vcYtHEmqvhQJV\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=sBuFqUqWhRVHX\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=cLWO7SD2LtCrS\u0026public=true"
+	]
+}

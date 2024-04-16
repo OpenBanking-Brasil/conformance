@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "40833",
+	"well-known": "https://pub.opb.testesejaefi.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=8JVFmaWJeYB6w\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=rU8eBR7MSC3Jp\u0026public=true"
+	]
+}

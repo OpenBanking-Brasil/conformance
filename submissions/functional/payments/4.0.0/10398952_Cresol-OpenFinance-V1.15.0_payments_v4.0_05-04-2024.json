@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "39615",
+	"well-known": "https://auth1.api.cresol.coop.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=1wsXanK2RRVxl\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=OUqKOPwr8rple\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jKejD8Oz9TSOj\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FXeXyqeXG6A0t\u0026public=true"
+	]
+}

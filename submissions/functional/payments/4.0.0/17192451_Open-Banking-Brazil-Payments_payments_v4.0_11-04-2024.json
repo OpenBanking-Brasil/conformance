@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40442",
+	"well-known": "https://id.credicard.opf.hom.cloud.itau.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=81xYwoy3Zjs4t\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=L3hZAeSUdI0Eq\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=daUuCf0mXGYLv\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jCG1eOR8Ab7kc\u0026public=true"
+	]
+}

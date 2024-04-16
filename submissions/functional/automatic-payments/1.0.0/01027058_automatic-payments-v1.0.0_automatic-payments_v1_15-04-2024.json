@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "40653",
+	"well-known": "https://api-open-finance.cielo.com.br/of-auth/realms/cielo/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=6cHedZdZ3Q9iV\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=eDYQAnnLanpOz\u0026public=true"
+	]
+}

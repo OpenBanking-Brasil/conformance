@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40394",
+	"well-known": "https://auth-sandbox.kebhana.com.br/of-auth/realms/kebhana-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=6p3InOUtJBwpo\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=qT5Dld2tNxl7c\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=345r4IaalV2Bj\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=mjMeDgJ8aZUC0\u0026public=true"
+	]
+}

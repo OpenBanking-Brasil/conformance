@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40011",
+	"well-known": "https://auth.jpmorgan-sbx.cipbanfico.com/auth/realms/provider/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=csjRyQamiR41m\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=cIV5eJE18a9w6\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=rBVQjJ9MwaWmz\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=n6m0zlw6QpT1B\u0026public=true"
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40399",
+	"well-known": "https://obkhmo.brb.com.br/.well-known/openid-configuration - (homologação)\r\nhttps://auth-obk.brb.com.br/.well-known/openid-configuration - (produção)",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=TBIZtuPipxo0f\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=RwBkRRjtaExhc\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=IYBqw3Xuh8L0A\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gt6Z9ooxIXmRI\u0026public=true"
+	]
+}

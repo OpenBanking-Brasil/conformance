@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.0",
+	"sd": "40570",
+	"well-known": "https://open.btgmaisbusiness.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=75SIuR3HkFiBz\u0026public=true"
+	]
+}

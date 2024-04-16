@@ -1,0 +1,8 @@
+{
+	"api": "exchanges_v1.0",
+	"sd": "39785",
+	"well-known": "https://api.bradesco.com/bradesco/pf/open-banking/.well-known/openid-configuration\r\nhttps://api.bradesco.com/bradesco/pj/open-banking/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=rg866i84yyfB0\u0026public=true"
+	]
+}

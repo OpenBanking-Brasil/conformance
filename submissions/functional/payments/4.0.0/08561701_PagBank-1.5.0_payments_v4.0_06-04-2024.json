@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "39642",
+	"well-known": "https://openbanking.api.pagseguro.com/auth/realms/open-banking/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=dpcVkWy5ejIb4\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=GI5HqBSKot338\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DqQREaioRtbzF\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=rUy7QF4iEoD5S\u0026public=true"
+	]
+}

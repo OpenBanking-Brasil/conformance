@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40130",
+	"well-known": "https://api.superlogica.hml.linaob.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=A236FgLQzl43n\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=GZdn0StdLHikI\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=OqWQCtMw5rflN\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=D3wS8UYNo3y3W\u0026public=true"
+	]
+}

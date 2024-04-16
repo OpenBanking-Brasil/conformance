@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "39825",
+	"well-known": "Functional Tests for Payments API - Based on Swagger version: v4.0.0\r\n \r\nhttps://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=dDHooAlG1yLGr\u0026public=true\r\n \r\n \r\nFunctional QRDN Tests for Payments API - Based on Swagger version: v4.0.0\r\n \r\nhttps://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=yDkYFwZZELhVE\u0026public=true\r\n \r\n \r\nFunctional Timezone Tests for Payments API - Based on Swagger version: v4.0.0\r\n \r\nhttps://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=CXBj5w5CquRnq\u0026public=true\r\n \r\n\r\n\r\nO plano do webhook 'Functional Tests for Payments - Webhook - Based on Swagger version: 4.0.0'  que a nomenclatura está como: Functional Tests for DCR DCM - PAGTO Role - Webhook V4 - Based on Swagger version: 1.0.0\r\n \r\nhttps://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=BijDuoXStpcgU\u0026public=true",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=dDHooAlG1yLGr\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=yDkYFwZZELhVE\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=CXBj5w5CquRnq\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=BijDuoXStpcgU\u0026public=true"
+	]
+}

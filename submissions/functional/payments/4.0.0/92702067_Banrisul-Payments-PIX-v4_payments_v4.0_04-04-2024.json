@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "39716",
+	"well-known": "https://openbanking.banrisul.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=s4yhH8rn4BTOg\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=L1irhvI8vn8sI\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=tezy1fR9Y676k\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=lvWo7jYzQyjNR\u0026public=true"
+	]
+}

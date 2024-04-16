@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40414",
+	"well-known": "https://api.dev.mercantil.finansystech.com.br/orgs/mercantil/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ExGIH2HKLULK4\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=X7dcykTtHy12p\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9GFJoJa4DIOk0\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=5huTBwwVBIZg0\u0026public=true"
+	]
+}

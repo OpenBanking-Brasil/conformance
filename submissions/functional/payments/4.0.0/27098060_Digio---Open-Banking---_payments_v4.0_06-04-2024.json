@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "39862",
+	"well-known": "https://openbanking.digio.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=yIWqvNbgNMZPt\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=CfcZAE80pMVcg\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=r9siXRudyDA0o\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=uf6CmHQfKozW3\u0026public=true"
+	]
+}

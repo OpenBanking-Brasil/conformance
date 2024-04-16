@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "40731",
+	"well-known": "https://openbanking-homologacao.socinal.com.br/open-banking/auth/.well-known/openid-configuration\r\nhttps://openbanking.socinal.com.br/open-banking/auth/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=De8Ip5i2hpEJJ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FtJ3r3l6cq584\u0026public=true"
+	]
+}
