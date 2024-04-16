@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.0",
+	"sd": "40454",
+	"well-known": "https://banking-openfinance-hml.xpi.com.br/orgs/xp/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=963QoOUu7UHdj\u0026public=true"
+	]
+}
