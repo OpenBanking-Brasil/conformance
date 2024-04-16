@@ -1,0 +1,8 @@
+{
+	"api": "exchanges_v1.0",
+	"sd": "39763",
+	"well-known": "https://obbr-auth.745.cipbanfico.com/auth/realms/provider/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=aVgQ6EXSp0bN7\u0026public=true"
+	]
+}
