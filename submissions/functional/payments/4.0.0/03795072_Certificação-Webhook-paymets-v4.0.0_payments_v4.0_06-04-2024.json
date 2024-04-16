@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "39936",
+	"well-known": "https://api.sicredi.com.br/of-auth/realms/sicredi/.well-known/openid-configuration\r\n\r\nhttps://api.sicredi.com.br/of-auth/realms/woop/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=p6Vv8PLfA2wlU\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=TZjqs0U3PKi1i\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9eGEARQwKzlI4\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=cmiZoo3ItuZ1P\u0026public=true"
+	]
+}
