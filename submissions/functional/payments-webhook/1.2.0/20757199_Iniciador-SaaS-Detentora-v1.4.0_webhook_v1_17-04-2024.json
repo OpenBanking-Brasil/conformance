@@ -1,0 +1,8 @@
+{
+	"api": "webhook_v1",
+	"sd": "40850",
+	"well-known": "https://api-snd-pay4fun.detentora.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=f8Onyi7LYVEU2\u0026public=true"
+	]
+}
