@@ -1,6 +1,6 @@
 {
 	"api": "payments_v4.0",
-	"sd": "40960",
+	"sd": "40523",
 	"well-known": "https://auth-openbanking.bancopan.com.br/.well-known/openid-configuration",
 	"test_plan_uri": [
 		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=s3lHlqBGhbmq8\u0026public=true",
