@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40883",
+	"well-known": "https://matls-auth-sandbox.senff.com.br/open-banking/payments/v4",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=8gON0IjqvEYGP\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=VDkh3jHs22Z1M\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ej0F5WuVP2EwX\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=teTC771gmfTej\u0026public=true"
+	]
+}

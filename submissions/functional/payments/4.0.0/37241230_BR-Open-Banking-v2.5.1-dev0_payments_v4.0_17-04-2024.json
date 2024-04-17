@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40859",
+	"well-known": "https://api.sumup.dev.hub.fsapps.io/orgs/sumup/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=6IAtVDBcPHnfv\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=hIqUGMO7UR8Ro\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=r1gQYzH0vdRpl\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Yt8K7aLJEVXMe\u0026public=true"
+	]
+}

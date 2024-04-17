@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "40850",
+	"well-known": "https://api-snd-pay4fun.detentora.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=LiLmPEQlc81XS\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=VTXDlsBvPUjoF\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=OnqH8mZ04vsJh\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=cSSc95x3XB1i8\u0026public=true"
+	]
+}
