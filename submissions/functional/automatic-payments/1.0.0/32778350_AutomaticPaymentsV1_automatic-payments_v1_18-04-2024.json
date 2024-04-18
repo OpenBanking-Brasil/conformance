@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "41044",
+	"well-known": "https://auth.sbox.openbanking.amedigital.com/of-auth/realms/amedigital-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=e7lJPPVp2ZvZg\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=C3Q8P0cYun75q\u0026public=true"
+	]
+}
