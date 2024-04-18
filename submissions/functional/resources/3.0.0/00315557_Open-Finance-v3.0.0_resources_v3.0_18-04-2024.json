@@ -1,0 +1,8 @@
+{
+	"api": "resources_v3.0",
+	"sd": "40971",
+	"well-known": "- Sandbox: https://auth-sandbox.unicred.com.br/of-auth/realms/unicred-sbx/.well-known/openid-configuration\r\n- Production: https://auth.unicred.com.br/of-auth/realms/unicred/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FV56Qj8SMJKwj\u0026public=true"
+	]
+}
