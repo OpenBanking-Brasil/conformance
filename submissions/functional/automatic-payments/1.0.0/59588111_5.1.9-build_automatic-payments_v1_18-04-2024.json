@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "40741",
+	"well-known": "SANDBOX: https://api-uat.bvopen.com.br/oidc/v1/internet-banking/.well-known/openid-configuration\r\nPRODUÇÂO: https://api-openbanking.bvopen.com.br/oidc/v1/internet-banking/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=GBQ8RDj1f9vc9\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=fK9agJT63tXjH\u0026public=true"
+	]
+}
