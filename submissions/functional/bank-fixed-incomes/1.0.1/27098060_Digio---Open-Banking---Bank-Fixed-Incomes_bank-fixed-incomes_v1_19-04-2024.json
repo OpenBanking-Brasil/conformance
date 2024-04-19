@@ -1,0 +1,9 @@
+{
+	"api": "bank-fixed-incomes_v1",
+	"sd": "41033",
+	"well-known": "https://openbanking.digio.com.br/.well-known/openid-configuration\r\n\r\nhttps://openbanking-uber.digio.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=bbCnHXVeAU380\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Ub8vu2W66txZf\u0026public=true"
+	]
+}
