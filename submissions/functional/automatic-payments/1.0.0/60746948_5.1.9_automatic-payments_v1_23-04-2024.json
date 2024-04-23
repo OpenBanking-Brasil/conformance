@@ -1,0 +1,10 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "41438",
+	"well-known": "Discovery: https://api.tu.prebanco.com.br/bradesco/pj/open-banking/.well-known/openid-configuration\r\n\r\ne\r\n\r\nDiscovery: https://api.tu.prebanco.com.br/bradesco/pf/open-banking/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9ReynQr9GpMyg\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=keDFSqNDOF4Tn\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=VK5VPOTcLsYNG\u0026public=true"
+	]
+}
