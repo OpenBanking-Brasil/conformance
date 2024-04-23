@@ -1,0 +1,11 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "41036",
+	"well-known": "https://auth1.openbanking-hml.paranabanco.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=okbQiSRCfkUwn\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=8J7YChWh4gFgV\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=PDWUinYbBiiVV\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=y3Iuq8fskGLNJ\u0026public=true"
+	]
+}
