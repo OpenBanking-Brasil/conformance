@@ -1,0 +1,10 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "41683",
+	"well-known": "https://auth1.openbanking.credisan.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=JxBM4y718SDZx\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=XItUYFVCup6jW\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=1TlTNFmygVH6L\u0026public=true"
+	]
+}
