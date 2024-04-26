@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "41014",
+	"well-known": "https://id.opf.hom.cloud.itau.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=YINSOzOd2SkaW\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9GI2maRcCMtfT\u0026public=true"
+	]
+}
