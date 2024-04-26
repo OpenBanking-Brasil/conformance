@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "41325",
+	"well-known": "https://oidc.openbanking.picpay.com/.well-known/openid-configuration\r\nhttps://oidc.openbanking.picpay.com/pj/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Jac3tyvMgbzhK\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=AILARsPFTb8jX\u0026public=true"
+	]
+}
