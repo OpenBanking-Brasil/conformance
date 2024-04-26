@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "41317",
+	"well-known": "https://openfinance-homol.sicoob.com.br/orgs/61185d64576d510022fa62c4/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Lnd0C4VQPMW2k\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=oIi4ervTznjev\u0026public=true"
+	]
+}
