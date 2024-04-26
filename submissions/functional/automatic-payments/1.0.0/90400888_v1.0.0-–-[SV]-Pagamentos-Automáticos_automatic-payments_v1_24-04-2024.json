@@ -1,0 +1,10 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "41427",
+	"well-known": "https://openbanking-h.api.santander.com.br/open-banking/security/v2/santander-pf/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=BWseTroHjk2qC\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=MSTgCJ1gTSWmJ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=MSTgCJ1gTSWmJ\u0026public=true"
+	]
+}
