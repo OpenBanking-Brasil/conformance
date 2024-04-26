@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "41690",
+	"well-known": "https://growing-close-blowfish.ngrok-free.app/dev/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=cTgQetie3h61y\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=LjylzG8buIIZ1\u0026public=true"
+	]
+}
