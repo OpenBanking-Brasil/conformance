@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "41801",
+	"well-known": "https://auth-sandbox.openfinance.ailos.coop.br/of-auth/realms/ailos-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=SAuNisXs8UBIO\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?public=true\u0026plan=h9UVL3oEEE8D2"
+	]
+}
