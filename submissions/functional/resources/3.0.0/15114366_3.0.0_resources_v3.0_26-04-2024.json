@@ -1,0 +1,8 @@
+{
+	"api": "resources_v3.0",
+	"sd": "41795",
+	"well-known": "https://auth-sandbox.hom.bocombbm.com.br/of-auth/realms/bancobbm-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=CkS25mpBWnlsM\u0026public=true"
+	]
+}
