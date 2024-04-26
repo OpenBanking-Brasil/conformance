@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "41331",
+	"well-known": "https://openbanking.bancoguanabara.com.br/orgs/guanabara/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=aLWcoEktyBa3W\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=sMy2YHUZQJ1HH\u0026public=true"
+	]
+}
