@@ -1,0 +1,10 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "41334",
+	"well-known": "https://auth.sandbox.openfinance.bnb.gov.br/of-auth/realms/bnb-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=KFSEMQ7USB0kJ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=5HGOWQJEs1YHt\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Lhb5JGOkMNdDY\u0026public=true"
+	]
+}
