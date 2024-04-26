@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "41506",
+	"well-known": "https://auth.uat.openbanking.midway.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=H2d6zNGN1r5Gm\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=fhrNNcqu1YNQA\u0026public=true"
+	]
+}
