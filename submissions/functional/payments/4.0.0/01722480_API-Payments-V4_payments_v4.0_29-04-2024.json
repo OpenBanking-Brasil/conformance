@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "41918",
+	"well-known": "https://openbanking.verdecard.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?public=true\u0026plan=qEWGL0VZjTFv4",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?public=true\u0026plan=xIAn62IqFYpwh",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?public=true\u0026plan=iPsBYAjZ62OUr",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?public=true\u0026plan=lm2JY2b6vEJoC"
+	]
+}
