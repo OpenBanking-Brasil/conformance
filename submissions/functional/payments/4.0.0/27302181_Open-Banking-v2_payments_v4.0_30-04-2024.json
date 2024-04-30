@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "41848",
+	"well-known": "https://auth-dev1-crystalamc-ofb.cmsw.com/auth/realms/test/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ZIdUT2NHEc7jr\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=oERCW6rgvSLGp\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=i00DiXf7rl1yF\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DkHj2EbImFXuM\u0026public=true"
+	]
+}
