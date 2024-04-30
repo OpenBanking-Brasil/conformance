@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "41804",
+	"well-known": "https://openid.net/developers/certified-openid-connect-implementations/",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=OJmwsUpaW3Y21\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=bsvNEuByKRoLe\u0026public=true"
+	]
+}
