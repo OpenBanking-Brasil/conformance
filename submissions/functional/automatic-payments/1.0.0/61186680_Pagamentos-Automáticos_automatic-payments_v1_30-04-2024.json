@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "41989",
+	"well-known": "Functional Tests for Automatic Payments API v1.0.0 rc.4\r\nhttps://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Wyv0ppHMPWdel\u0026public=true\r\n\r\n \r\nFunctional Tests for Automatic Payments API – Webhook v1.0.0 rc.4\r\nhttps://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=XvogpB1oCGz1o\u0026public=true\r\n",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=XvogpB1oCGz1o\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Wyv0ppHMPWdel\u0026public=true"
+	]
+}
