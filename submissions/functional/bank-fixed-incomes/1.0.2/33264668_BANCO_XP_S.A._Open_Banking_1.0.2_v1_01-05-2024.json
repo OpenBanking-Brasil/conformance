@@ -1,0 +1,9 @@
+{
+	"api": "bank-fixed-incomes_v1",
+	"sd": "42174",
+	"well-known": "https://banking-openfinance-hml.xpi.com.br/orgs/xp/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=2JWylAKm6yb17&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=U1IcvK0CDPvyA&public=true"
+	]
+}
