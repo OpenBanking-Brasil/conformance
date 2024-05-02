@@ -14,9 +14,6 @@ def validate_json(json_obj, api_name):
     def is_valid_sd(sd):
         return re.match(r'^\d+$', sd)
 
-    def is_valid_docusign_id(docusign_id):
-        return re.match(r'^[a-zA-Z\d]{8}-[a-zA-Z\d]{4}-[a-zA-Z\d]{4}-[a-zA-Z\d]{4}-[a-zA-Z\d]{12}$', docusign_id)
-
     def is_valid_test_plan_uri(test_plan_uri):
         if isinstance(test_plan_uri, str):
             return re.match(uri_regex, test_plan_uri)
@@ -30,8 +27,8 @@ def validate_json(json_obj, api_name):
         return False, 'api field has an invalid value'
     if 'sd' not in json_obj or not is_valid_sd(json_obj['sd']):
         return False, 'sd field has an invalid value'
-    if 'docusign_id' not in json_obj or not is_valid_docusign_id(json_obj['docusign_id']):
-        return False, 'docusign_id field has an invalid value'
+    if 'well-known' not in json_obj:
+        return False, 'well-known field has an invalid value'
     if 'test_plan_uri' not in json_obj or not is_valid_test_plan_uri(json_obj['test_plan_uri']):
         return False, 'test_plan_uri field has an invalid value'
     return True, 'approved'
