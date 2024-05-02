@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "41926",
+	"well-known": "https://credialianca-ofb-tpp-prod.cmsw.com/auth/realms/78157146/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9PES0EzJ05DB2\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=4gXK8Fxgz6eau\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=x83FSw6h24EJw\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DkHj2EbImFXuM\u0026public=true"
+	]
+}
