@@ -1,0 +1,8 @@
+{
+	“api”: “enrollments_v1.3",
+	“sd”: “12345",
+	“well-known”: “https://mockbank.com.br/.well-known/openid-configuration”,
+	“test_plan_uri”: [
+		“https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jdsjkandkns84\u0026public=true”
+	]
+}
