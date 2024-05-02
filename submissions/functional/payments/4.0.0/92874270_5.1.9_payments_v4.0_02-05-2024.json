@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "42073",
+	"well-known": "https://hml-openbanking.bancodigimais.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9gDGWMtN4N38k\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=2iK5EQdO2OhA4\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=0k7ug4tYG4nUh\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Yyr3jyiYK5p7F\u0026public=true"
+	]
+}
