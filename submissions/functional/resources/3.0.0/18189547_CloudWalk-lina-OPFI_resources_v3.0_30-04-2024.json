@@ -1,0 +1,8 @@
+{
+	"api": "resources_v3.0",
+	"sd": "41771",
+	"well-known": "https://api.infinitepay.hml.linaob.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=WfdjiFCh6a3Vv\u0026public=true"
+	]
+}
