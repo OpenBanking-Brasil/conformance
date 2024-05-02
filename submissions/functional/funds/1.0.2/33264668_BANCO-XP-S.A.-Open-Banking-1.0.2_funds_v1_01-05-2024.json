@@ -1,0 +1,9 @@
+{
+	"api": "funds_v1.0",
+	"sd": "42176",
+	"well-known": "https://banking-openfinance-hml.xpi.com.br/orgs/xp/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=SkzlPzPhvO2uc&public=true",
+    "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=HzbEqkH2Bs1yF&public=true"
+	]
+}

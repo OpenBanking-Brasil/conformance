@@ -1,0 +1,9 @@
+{
+	"api": "credit-fixed-incomes-timezone_v1",
+	"sd": "42175",
+	"well-known": "https://banking-openfinance-hml.xpi.com.br/orgs/xp/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=mSWyfrdneG8eR&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=fpQnnm1dSbZVq&public=true"
+	]
+}
