@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.0",
+	"sd": "42089",
+	"well-known": "https://openbanking-hml.finnet.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=f93ubukTN9Xdg&public=true"
+	]
+}
