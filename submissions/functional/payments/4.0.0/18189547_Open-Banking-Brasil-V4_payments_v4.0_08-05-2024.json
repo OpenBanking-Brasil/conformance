@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "42427",
+	"well-known": "https://qrcode-h.openfinance.banking.infinitepay.io/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=2GM6Nec02fbQk\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=MheZ2Xp9thSCr\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=G7FQmWOTpUtXK\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=3drWnd3KjTThF\u0026public=true"
+	]
+}
