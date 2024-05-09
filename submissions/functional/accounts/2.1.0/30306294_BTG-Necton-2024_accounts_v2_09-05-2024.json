@@ -1,0 +1,8 @@
+{
+	"api": "accounts_v2",
+	"sd": "42576",
+	"well-known": "https://open.necton.btgpactual.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=TH81j0RzpaAQ2\u0026public=true"
+	]
+}
