@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "42633",
+	"well-known": "https://auth-openbanking.adiq.io/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=b6YoMOaiFfWk1\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Cciukyml3QvHK\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=g3JdzuhfZcVCe\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Hke55BOAfnune\u0026public=true"
+	]
+}
