@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3",
+	"sd": "42542",
+	"well-known": "https://openbanking-iam-h.bndes.gov.br/oauth2/token/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=wC2aW1gxkuvMZ&public=true"
+	]
+}
