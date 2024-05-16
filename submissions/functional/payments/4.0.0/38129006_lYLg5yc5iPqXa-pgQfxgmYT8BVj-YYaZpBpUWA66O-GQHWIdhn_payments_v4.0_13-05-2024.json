@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "42966",
+	"well-known": "https://api.numbrs.dev.hub.fsapps.io/orgs/numbrs/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=YYaZpBpUWA66O\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=lYLg5yc5iPqXa\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=pgQfxgmYT8BVj\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=GQHWIdhneLjhz\u0026public=true"
+	]
+}
