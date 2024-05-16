@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "42987",
+	"well-known": "https://auth-sandbox.uniprimecentral.com.br/of-auth/realms/uniprimecentral-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=aVnQIRUiOmgPZ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=j08iYsNYl7DjH\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=7nzm4Tm0aqW8w\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jAV9M9zo870sm\u0026public=true"
+	]
+}
