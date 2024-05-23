@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "43203",
+	"well-known": "https://auth.openbanking.cora.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=fqiSp0TYvDIR9\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=4twgrDIKZSu6S\u0026public=true"
+	]
+}
