@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "43717",
+	"well-known": "https://auth.openbanking.hom-bpp.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=LzByDnaC71Nef\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FigW7lSgmP7Ly\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=WEDAL1aWzmPdy\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=KpzbQIk6CUuzo\u0026public=true"
+	]
+}
