@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "43398",
+	"well-known": "https://auth.openbanking.cora.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=MvAtIUSTrVaQc&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=F9feZrU8vFSpe&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=3wcqBIQFf8utO&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=zvmQHZ4b1VHxa&public=true"
+	]
+}
