@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "43946",
+	"well-known": "https://api.opb.celcoin.dev.fsapps.io/orgs/celcoin/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ggzjkPpU8mhHr&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=8BV77nuhY0NBu&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=AqySE8mCJaMeX&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=97octVGryMmxy&public=true"
+	]
+}
