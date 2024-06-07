@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "44778",
+	"well-known": "https://external.sandbox-openfinance.stone.com.br/of-auth/realms/stone-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=8xMvNXs3ho2TZ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=6Uvg7dfjY8NG6\u0026public=true"
+	]
+}
