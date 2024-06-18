@@ -1,0 +1,10 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "44826",
+	"well-known": "https://auth-sandbox.openbanking.banestes.b.br/of-auth/realms/banestes-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=yH5M2YpQKMhqX\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=zRZjp4G7h4cTE\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=zRZjp4G7h4cTE\u0026public=true"
+	]
+}
