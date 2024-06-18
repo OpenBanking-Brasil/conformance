@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "44628",
+	"well-known": "https://mtls.open.staging.bankly.com.br/acesso/oauth2/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=j5eZgTIHKrmvN\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ivTd2MJ57uDFC\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=fzjbEJg97RP1c\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=GiRE6mFO2xEVj\u0026public=true"
+	]
+}
