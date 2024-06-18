@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "44346",
+	"well-known": "Marca Pefisa \u003e https://opf.pefisa.com.br/.well-known/openid-configuration\r\nMarca Pernambucanas \u003e https://pernambucanas.opf.pefisa.com.br/.well-known/openid-configuration\r\n",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=fO6v6smypWMqY\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DMaDkw0kFvzVC\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gVmhdogZ43DQR\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=IxUQxuQRpgXYa\u0026public=true"
+	]
+}
