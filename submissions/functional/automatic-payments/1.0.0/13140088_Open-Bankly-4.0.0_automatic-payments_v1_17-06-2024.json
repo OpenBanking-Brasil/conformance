@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "45214",
+	"well-known": "https://mtls.open.staging.bankly.com.br/acesso/oauth2/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=RlcrAmaY33cpk\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=TF4yBAAaaJS5N\u0026public=true"
+	]
+}
