@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "44840",
+	"well-known": "https://api-openfinance.qitech.app/orgs/qitech/.well-known/openid-configuration\r\n",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jPxQkNsBknKuk\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=GsX1gzA5j6QRW\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=MaZL7VYZc7i24\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=xwPDAqQCI9B3z\u0026public=true"
+	]
+}
