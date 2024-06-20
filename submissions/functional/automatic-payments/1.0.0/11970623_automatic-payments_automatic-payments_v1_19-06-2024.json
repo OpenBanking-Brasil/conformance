@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "45532",
+	"well-known": "9d056db2-97a6-5d55-8728-34923d018a8a",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=6jJOeEiodUfBY\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=HE738aEzhoGid\u0026public=true"
+	]
+}
