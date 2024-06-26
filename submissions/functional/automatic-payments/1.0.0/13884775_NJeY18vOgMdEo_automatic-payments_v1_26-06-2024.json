@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "46197",
+	"well-known": "https://kong-dev.hubfintech.com.br/orgs/hubfintech/.well-known/openid-configuration\r\n\r\n5.1.17 build: 525a9bfa1c8b8c1be878d2839ce68ed7491e4509\r\n5.1.17 build: e404c041564c67606fe1a8967e148f93e146edfc\r\n5.1.17 build: e404c041564c67606fe1a8967e148f93e146edfc",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=NJeY18vOgMdEo\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=pHjHwA1q9gWOA\u0026public=true"
+	]
+}
