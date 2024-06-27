@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "46340",
+	"well-known": "https://openbanking.smo.sulcredi.coop.br/orgs/smo/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=HjJGn28NXe0vC\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Dm5s74FuD8X5J\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=1Hvhgfbed4p9U\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=O9ITIxkJQq1Rq\u0026public=true"
+	]
+}
