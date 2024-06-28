@@ -1,0 +1,9 @@
+{
+	"api": "funds_v1",
+	"sd": "46450",
+	"well-known": "https://openbanking.api.nubank.com.br/api/pub/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=adtMs8G4YoyXo\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=MvMZM8c0zmmFB\u0026public=true"
+	]
+}
