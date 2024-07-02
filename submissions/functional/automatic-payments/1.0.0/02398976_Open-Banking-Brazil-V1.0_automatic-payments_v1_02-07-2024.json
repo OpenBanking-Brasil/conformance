@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "46743",
+	"well-known": "https://auth-sandbox.sisprimedobrasil.com.br/jans-auth/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=suvESKUmLz41C\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=OEiHr6IjquHdY\u0026public=true"
+	]
+}
