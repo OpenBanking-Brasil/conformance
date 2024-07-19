@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "48293",
+	"well-known": "https://api.vortx.linaob.com.br/.well-known/openid-configuration\r\n ",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=PCaFndgH2LdAg\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=RuE4PZr2MdqGM\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=G1BaeMKgeUcAC\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Pvq1h54UdXYsD\u0026public=true"
+	]
+}
