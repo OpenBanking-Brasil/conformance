@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "49053",
+	"well-known": "https://auth.sopen.cartos.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Ta3MOiSx41Cmb\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=kCDkhKAh3FcVV\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=rcEtQQNKFqoxO\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=lWwaR04goPkEG\u0026public=true"
+	]
+}
