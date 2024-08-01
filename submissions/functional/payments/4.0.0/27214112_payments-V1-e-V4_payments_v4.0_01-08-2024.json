@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "49209",
+	"well-known": "https://auth-opb-sandbox.ribha.com.br/of-auth/realms/al5bank-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=0gR2cRo0vOl4w\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=EieS0moLfU61T\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=GH0Qxqfy6hcKE\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Jye30qUxkW82z\u0026public=true"
+	]
+}
