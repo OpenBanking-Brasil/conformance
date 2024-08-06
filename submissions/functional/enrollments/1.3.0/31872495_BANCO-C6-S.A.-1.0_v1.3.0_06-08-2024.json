@@ -1,0 +1,6 @@
+{
+	"api": "enrollments_v1",
+	"sd": "49275",
+	"well-known": "https://api.sandbox.c6bank.com.br/auth/.well-known/openid-configuration",
+	"test_plan_uri": "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=NyvRIlQnyiAgk&public=true"
+}
