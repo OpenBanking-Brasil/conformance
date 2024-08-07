@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "50062",
+	"well-known": "https://api.ibiam.dev.hub.fsapps.io/orgs/ibiam/.well-known/openid-configuration\r\n",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=dZcIT1AfRDyaP\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ewTxl8kBUiC6Q\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=d2IGXrUHOruBk\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=8IGOr6lcejkYC\u0026public=true"
+	]
+}
