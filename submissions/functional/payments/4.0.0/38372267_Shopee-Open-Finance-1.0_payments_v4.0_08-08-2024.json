@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "50110",
+	"well-known": "https://api.shopee.dev.hub.fsapps.io/orgs/shopee/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=dGw05oixYExyZ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=CCgK9gvaHBP3n\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=AIr2vcZ5t8gEV\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=LzrjQGrc3xG7F\u0026public=true"
+	]
+}
