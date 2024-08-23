@@ -1,0 +1,9 @@
+{
+	"api": "accounts_v2.4",
+	"sd": "51161",
+	"well-known": "https://authorization.openapi.sofisa.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Y0m7iCXVAujWI\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FRnVvgYok5sxe\u0026public=true"
+	]
+}
