@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "51747",
+	"well-known": "https://api.delbank.linaob.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=mRBOa6cZUapdQ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DQc6rdZuIARPS\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FuCiH3GcRweRy\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=vm1W1212CscI2\u0026public=true"
+	]
+}
