@@ -1,0 +1,8 @@
+{
+	"api": "personal_v2.1",
+	"sd": "51812",
+	"well-known": "https://api-open.klavi.ai/.well-known/openid-configuration\r\n",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=oKs2clpp8OVgo\u0026public=true"
+	]
+}
