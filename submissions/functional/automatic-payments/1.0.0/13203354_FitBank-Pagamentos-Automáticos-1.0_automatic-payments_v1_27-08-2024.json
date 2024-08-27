@@ -1,0 +1,10 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "52086",
+	"well-known": "https://auth.staging.fitbank.app-terosopenbanking.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=wUdgA1uVg2O0b\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=wUdgA1uVg2O0b\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Wb0suxJwrs8Em\u0026public=true"
+	]
+}
