@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "52418",
+	"well-known": "https://as.openbanking.bancogenial.com/auth/realms/genial/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=olTvKzA1qXtXQ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Gquski28fnFFw\u0026public=true"
+	]
+}
