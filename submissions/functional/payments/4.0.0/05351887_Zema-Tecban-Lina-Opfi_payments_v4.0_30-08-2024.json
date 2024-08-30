@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "52464",
+	"well-known": "https://api.zema.hml.linaob.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=S5Wx1660MJm32\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=z3Mz4fgOHaSX5\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=d34aS115p2I8X\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=iPHzxdzGPQepp\u0026public=true"
+	]
+}
