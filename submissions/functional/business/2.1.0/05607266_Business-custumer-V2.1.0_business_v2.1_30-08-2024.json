@@ -1,0 +1,8 @@
+{
+	"api": "business_v2.1",
+	"sd": "52044",
+	"well-known": "https://openfinance.finnet.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=sHohNkqXGH8NM\u0026public=true"
+	]
+}
