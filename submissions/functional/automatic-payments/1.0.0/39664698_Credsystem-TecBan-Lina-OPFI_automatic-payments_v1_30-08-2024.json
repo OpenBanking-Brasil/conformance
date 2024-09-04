@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "52460",
+	"well-known": "https://api.credsystem.linaob.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=cxaCaz82YE7w5\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=SIWcCkRde7Nsl\u0026public=true"
+	]
+}
