@@ -1,0 +1,10 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "52709",
+	"well-known": "https://api.openbanking.tribanco.com.br/of-auth/realms/tribanco/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=2049ITpBpANef\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=03Mk9BC51SnTr\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Q1hjI5ZFu0CMB\u0026public=true"
+	]
+}
