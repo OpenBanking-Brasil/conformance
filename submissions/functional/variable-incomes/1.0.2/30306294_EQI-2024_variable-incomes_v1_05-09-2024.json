@@ -1,0 +1,9 @@
+{
+	"api": "variable-incomes_v1",
+	"sd": "53163",
+	"well-known": "https://open.eqi.btgpactual.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gwnQ1jWKPmeuM\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=sMh6zrVaLpYIU\u0026public=true"
+	]
+}
