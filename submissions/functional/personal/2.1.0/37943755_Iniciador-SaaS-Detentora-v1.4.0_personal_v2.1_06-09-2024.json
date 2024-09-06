@@ -1,0 +1,8 @@
+{
+	"api": "personal_v2.1",
+	"sd": "53320",
+	"well-known": "https://api.of.pluggy.ai/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=RUc5RS8Z1Y4DR\u0026public=true"
+	]
+}

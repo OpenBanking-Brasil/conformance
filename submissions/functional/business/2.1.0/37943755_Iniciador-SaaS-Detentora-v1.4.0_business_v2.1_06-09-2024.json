@@ -1,0 +1,8 @@
+{
+	"api": "business_v2.1",
+	"sd": "53320",
+	"well-known": "https://api.of.pluggy.ai/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=znVL9KW0dhsRM\u0026public=true"
+	]
+}
