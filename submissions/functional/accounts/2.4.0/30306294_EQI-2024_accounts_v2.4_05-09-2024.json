@@ -1,0 +1,8 @@
+{
+	"api": "accounts_v2.4",
+	"sd": "53150",
+	"well-known": "https://open.eqi.btgpactual.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DTehk90ngFF87\u0026public=true"
+	]
+}
