@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "49557",
+	"well-known": "https://api.z1.dev.hub.fsapps.io/orgs/z1/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=PK5JxcVSlfhvD\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=zTdlV5iRzGc5H\u0026public=true"
+	]
+}
