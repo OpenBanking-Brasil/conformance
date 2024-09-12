@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "47960",
+	"well-known": "https://openbanking-hml.coopercard.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=lfrPOJJjg7Q6O\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Woyx7dMS5Blt3\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gmMDRRbAJJcxb\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=YPWAratAQnNGu\u0026public=true"
+	]
+}
