@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "54008",
+	"well-known": "https://auth-hml.banpara.b.br/auth/realms/OpenBanking/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=sHVdYTpAIjHao\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=8DpfvP6BXQEbs\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=CZ1NdxB0H65Ro\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=iUZweX8bkfRaD\u0026public=true"
+	]
+}
