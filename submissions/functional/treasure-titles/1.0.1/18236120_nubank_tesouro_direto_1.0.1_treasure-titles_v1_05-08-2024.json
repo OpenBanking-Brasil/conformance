@@ -1,0 +1,9 @@
+{
+	"api": "treasure-titles_v1",
+	"sd": "49462",
+	"well-known": "https://openbanking.api.nubank.com.br/api/pub/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=SgmXhD65IU77q\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=5mo2FgkbNNjmw\u0026public=true"
+	]
+}
