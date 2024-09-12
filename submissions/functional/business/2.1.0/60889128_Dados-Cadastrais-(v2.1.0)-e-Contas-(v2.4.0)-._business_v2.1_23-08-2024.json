@@ -1,0 +1,8 @@
+{
+	"api": "business_v2.1",
+	"sd": "51161",
+	"well-known": "https://authorization.openapi.sofisa.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Dxguf1vHPp9UV\u0026public=true"
+	]
+}
