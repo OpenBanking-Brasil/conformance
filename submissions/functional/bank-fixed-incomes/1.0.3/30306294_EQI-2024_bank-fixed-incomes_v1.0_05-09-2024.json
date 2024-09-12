@@ -1,0 +1,9 @@
+{
+	"api": "bank-fixed-incomes_v1.0",
+	"sd": "53164",
+	"well-known": "https://open.eqi.btgpactual.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=igTALwewiRBSx\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=goO15uLvtT4y5\u0026public=true"
+	]
+}
