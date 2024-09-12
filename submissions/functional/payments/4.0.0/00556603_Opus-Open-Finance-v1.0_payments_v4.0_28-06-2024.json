@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "46383",
+	"well-known": "https://openbanking-hml.bancobari.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=HTuxrVU7oHx1g\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=7mFdevN5xZ2pG\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ZGmOPj5P22D4X\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=3PEcIINlzTrnR\u0026public=true"
+	]
+}
