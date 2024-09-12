@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.0",
+	"sd": "50598",
+	"well-known": "https://api-sandbox-pluggy.inic-of.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?public=true\u0026plan=BJKye60hJG9wP"
+	]
+}
