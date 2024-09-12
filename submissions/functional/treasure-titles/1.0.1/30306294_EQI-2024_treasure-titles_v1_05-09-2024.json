@@ -1,0 +1,9 @@
+{
+	"api": "treasure-titles_v1",
+	"sd": "53160",
+	"well-known": "https://open.eqi.btgpactual.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Dg5ek7QJCI0ys\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=89aBHqFRrj8j1\u0026public=true"
+	]
+}
