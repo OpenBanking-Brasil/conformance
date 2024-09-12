@@ -1,0 +1,8 @@
+{
+	"api": "exchanges_v1.0",
+	"sd": "53482",
+	"well-known": "https://auth.bocombbm.com.br/of-auth/realms/bancobbm/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=EVRSg2NyAaeS1\u0026public=true"
+	]
+}
