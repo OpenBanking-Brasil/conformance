@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "54142",
+	"well-known": "https://auth-hml.banpara.b.br/auth/realms/OpenBanking/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=NDGz5idrduRrh\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=LYNbSdZYASVey\u0026public=true"
+	]
+}
