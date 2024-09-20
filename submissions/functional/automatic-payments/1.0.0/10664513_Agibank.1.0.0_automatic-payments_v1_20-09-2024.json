@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "54636",
+	"well-known": "https://auth.staging.agibank.app-terosopenbanking.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ajNrtkezYnjyN\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=dEUxOw35h7jw7\u0026public=true"
+	]
+}
