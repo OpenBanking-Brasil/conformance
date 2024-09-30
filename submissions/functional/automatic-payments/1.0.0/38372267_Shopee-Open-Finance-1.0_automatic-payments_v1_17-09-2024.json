@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "54323",
+	"well-known": "https://api.shopee.dev.hub.fsapps.io/orgs/shopee/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=EMVnXnjmCetYA\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=7WtpT1N6QIREK\u0026public=true"
+	]
+}
