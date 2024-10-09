@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "56097",
+	"well-known": "https://api.j34y237y.dev.hub.fsapps.app/orgs/clara/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FNr70C12USgZ1\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ZS7zsExfdJ0RB\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=pcLUEt7eCk795\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=T5fPmDz2WW70S\u0026public=true"
+	]
+}
