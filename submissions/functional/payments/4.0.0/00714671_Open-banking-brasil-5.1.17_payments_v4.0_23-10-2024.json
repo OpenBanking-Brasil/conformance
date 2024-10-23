@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "58571",
+	"well-known": "https://api.st41f5s8.dev.hub.fsapps.app/orgs/ewally/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=wMp0rdsydNiWb\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=KgaKpTVSlS4kp\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=c0P69bQ5rPNvd\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=qHAJ8EgF9XCOZ\u0026public=true"
+	]
+}
