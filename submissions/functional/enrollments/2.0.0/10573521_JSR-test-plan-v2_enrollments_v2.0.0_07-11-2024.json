@@ -1,0 +1,9 @@
+{
+	"api": "enrollments_v2.0.0",
+	"sd": "60093",
+	"well-known": "https://api.mercadopago.com/prod/open-banking/oidc/v1/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=48x4EFTr25nme\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=QNFuSzgY9R0Or\u0026public=true"
+	]
+}
