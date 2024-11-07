@@ -1,0 +1,9 @@
+{
+	"api": "enrollments_v2.0.0",
+	"sd": "60046",
+	"well-known": "https://api.tu.prebanco.com.br/bradesco/pf/open-banking/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=6AJLIR07fHuSS\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=vC11txrAbkaPJ\u0026public=true"
+	]
+}
