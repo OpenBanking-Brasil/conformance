@@ -1,0 +1,9 @@
+{
+	"api": "enrollments_v2.0.0",
+	"sd": "59761",
+	"well-known": "https://oidc.openbanking.picpay.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=o5gz60nwUVbZA\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=5YV6qXYrNiHPz\u0026public=true"
+	]
+}
