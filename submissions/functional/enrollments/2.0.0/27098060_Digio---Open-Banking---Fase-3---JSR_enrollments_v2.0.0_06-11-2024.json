@@ -1,0 +1,9 @@
+{
+	"api": "enrollments_v2.0.0",
+	"sd": "59937",
+	"well-known": "https://openbanking.digio.com.br/.well-known/openid-configuration\r\nhttps://openbanking-uber.digio.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=s291JQjia9aWq\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=bC1XoRm3snz5o\u0026public=true"
+	]
+}
