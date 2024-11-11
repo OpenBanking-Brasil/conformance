@@ -1,0 +1,9 @@
+{
+	"api": "enrollments_v2.0.0",
+	"sd": "60228",
+	"well-known": "https://auth-openfinance.uatbi.com.br/of-auth/realms/inter-sbx/.well-known/openid-configuration ",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=m2TT2Nf5c5DqR\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=yqO7zfXzZpHVt\u0026public=true"
+	]
+}
