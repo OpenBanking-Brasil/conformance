@@ -1,0 +1,9 @@
+{
+	"api": "enrollments_v2.0.0",
+	"sd": "60113",
+	"well-known": "https://customerdata-mtls.of.bb.com.br/bancodobrasil/open-banking/enrollments/v2/enrollments\r\nhttps://customerdata-mtls.of.bb.com.br/bancodobrasil/open-banking/enrollments/v2/enrollments/{enrollmentId}\r\nhttps://customerdata-mtls.of.bb.com.br/bancodobrasil/open-banking/enrollments/v2/enrollments/{enrollmentId}/fido-registration-options\r\nhttps://customerdata-mtls.of.bb.com.br/bancodobrasil/open-banking/enrollments/v2/enrollments/{enrollmentId}/fido-registration\r\nhttps://customerdata-mtls.of.bb.com.br/bancodobrasil/open-banking/enrollments/v2/enrollments/{enrollmentId}/fido-sign-options\r\nhttps://customerdata-mtls.of.bb.com.br/bancodobrasil/open-banking/enrollments/v2/enrollments/{enrollmentId}/risk-signals\r\nhttps://customerdata-mtls.of.bb.com.br/bancodobrasil/open-banking/enrollments/v2/consents/{consentId}/authorise",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=g0aPNZB7K7m1g\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=l8yp75gHmTtNB\u0026public=true"
+	]
+}
