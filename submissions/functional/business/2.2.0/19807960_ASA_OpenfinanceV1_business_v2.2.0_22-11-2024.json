@@ -1,0 +1,8 @@
+{
+	"api": "business_v2.2.0",
+	"sd": "61456",
+	"well-known": "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DBY18GkcnJIPT\u0026public=true",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DBY18GkcnJIPT\u0026public=true"
+	]
+}
