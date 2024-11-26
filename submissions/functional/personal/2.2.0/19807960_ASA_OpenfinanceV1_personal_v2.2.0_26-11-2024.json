@@ -1,0 +1,8 @@
+{
+	"api": "personal_v2.2.0",
+	"sd": "61616",
+	"well-known": "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=4QOBQtwv7RP7F\u0026public=true\r\n\r\n",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=4QOBQtwv7RP7F\u0026public=true"
+	]
+}
