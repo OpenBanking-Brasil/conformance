@@ -1,0 +1,8 @@
+{
+	"api": "business_v2.2.0",
+	"sd": "59962",
+	"well-known": "https://auth.187.33.116.215.nip.io/auth/realms/test/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=cA8f7PSfvTdwc\u0026public=true"
+	]
+}

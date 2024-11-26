@@ -1,0 +1,9 @@
+{
+	"api": "credit-fixed-incomes_v1.0.2",
+	"sd": "59962",
+	"well-known": "https://auth.187.33.116.215.nip.io/auth/realms/test/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=JzxXarp2Ztm1Z\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Gco7NAxBywpfT\u0026public=true"
+	]
+}
