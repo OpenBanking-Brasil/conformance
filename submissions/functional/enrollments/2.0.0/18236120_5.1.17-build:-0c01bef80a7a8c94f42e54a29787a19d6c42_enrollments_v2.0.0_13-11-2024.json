@@ -1,0 +1,9 @@
+{
+	"api": "enrollments_v2.0.0",
+	"sd": "60403",
+	"well-known": "https://openbanking.api.nubank.com.br/api/pub/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=296ywa1i0kmJS\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?public=true\u0026plan=yoVHlGBiiGLrJ"
+	]
+}
