@@ -1,0 +1,9 @@
+{
+	"api": "treasure-titles_v1",
+	"sd": "60102",
+	"well-known": "https://auth.187.33.116.215.nip.io/auth/realms/test/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=00ZXLpinduzr9\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gF1XDg56EGXvF\u0026public=true"
+	]
+}
