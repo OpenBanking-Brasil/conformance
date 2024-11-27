@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "62094",
+	"well-known": " https://auth-business.openbanking.uatbi.com.br/oauth/.well-known/openid-configuration ",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=hG1G3aOcTrFoB\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=4WE5JaxfMghUO\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=7kbC6BuZuvaut\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=pBmYCrybhJJG4\u0026public=true"
+	]
+}
