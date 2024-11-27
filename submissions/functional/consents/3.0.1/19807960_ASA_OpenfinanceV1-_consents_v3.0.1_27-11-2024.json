@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.0.1",
+	"sd": "62021",
+	"well-known": "https://api-opf-sandbox.asa.com.br/of-auth/realms/asa-sbx/.well-known/openid-configuration\r\n ",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=VmaEm0c2ekUYe\u0026public=true"
+	]
+}
