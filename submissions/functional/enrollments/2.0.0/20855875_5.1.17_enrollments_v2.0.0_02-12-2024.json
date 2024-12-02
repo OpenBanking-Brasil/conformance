@@ -1,0 +1,9 @@
+{
+	"api": "enrollments_v2.0.0",
+	"sd": "62107",
+	"well-known": "https://auth-sandbox.neon.com.br/of-auth/realms/neon-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=SQ7gEnfU77Vlt\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=SFwxe7FOBfHrg\u0026public=true"
+	]
+}
