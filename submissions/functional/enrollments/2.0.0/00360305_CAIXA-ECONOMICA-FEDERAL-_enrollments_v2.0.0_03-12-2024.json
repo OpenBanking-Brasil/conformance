@@ -1,0 +1,9 @@
+{
+	"api": "enrollments_v2.0.0",
+	"sd": "62745",
+	"well-known": "https://login.openbanking.caixa.gov.br/.well-known/openid-configuration ",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=F6ecGgs6kJjV8\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=xOvjx5KCVcdFY\u0026public=true"
+	]
+}
