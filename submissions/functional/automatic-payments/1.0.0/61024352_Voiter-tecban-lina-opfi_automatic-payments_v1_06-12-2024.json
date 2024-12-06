@@ -1,0 +1,10 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "63097",
+	"well-known": "https://api.voiter.hml.linaob.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=iiCqeqKCIkvd1\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=xmV1QXMg18vHc\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=xmV1QXMg18vHc\u0026public=true"
+	]
+}
