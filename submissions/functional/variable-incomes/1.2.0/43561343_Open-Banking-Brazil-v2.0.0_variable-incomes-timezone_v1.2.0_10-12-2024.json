@@ -1,0 +1,9 @@
+{
+	"api": "variable-incomes-timezone_v1.2.0",
+	"sd": "63462",
+	"well-known": "https://auth.187.33.116.213.nip.io/auth/realms/test/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=0OuKYpPNs3TGN\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=NGiJxQ8ZYOYB3\u0026public=true"
+	]
+}
