@@ -1,0 +1,10 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "64758",
+	"well-known": "https://api.cresol.hml.linaob.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=MMFPdTGcEKAt8\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=VzExBJ42KWVru\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=3Cr58XH8Gi5uz\u0026public=true"
+	]
+}
