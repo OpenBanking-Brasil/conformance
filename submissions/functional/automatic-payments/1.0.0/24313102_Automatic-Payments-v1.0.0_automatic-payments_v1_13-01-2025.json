@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "67358",
+	"well-known": "https://openfinance.sim.didiglobal.com/auth-server/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=djLfpiv6NurwG\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=odpPp8Q0B0ab2\u0026public=true"
+	]
+}
