@@ -1,0 +1,8 @@
+{
+	"api": "exchanges_v1.0",
+	"sd": "63903",
+	"well-known": "https://auth.187.33.116.213.nip.io/auth/realms/test/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Hn7jTDTofbKr3\u0026public=true"
+	]
+}
