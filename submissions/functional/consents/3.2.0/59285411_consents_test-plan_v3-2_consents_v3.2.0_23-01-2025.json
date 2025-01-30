@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.2.0",
+	"sd": "68725",
+	"well-known": "https://auth-openbanking-hml.bancopan.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ERpif3auG8e4O\u0026public=true"
+	]
+}
