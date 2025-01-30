@@ -1,0 +1,9 @@
+{
+	"api": "bank-fixed-incomes_v1.0.4",
+	"sd": "69814",
+	"well-known": "https://crystalbmc-ofb-tpp-prod.becrystal.finance/auth/realms/43561343/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=pfKm5oZ2dog0M\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DZCboXKUsqMaW\u0026public=true"
+	]
+}
