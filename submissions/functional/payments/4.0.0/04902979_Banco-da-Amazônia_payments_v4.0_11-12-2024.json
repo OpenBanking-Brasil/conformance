@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "63168",
+	"well-known": "https://auth1.openbanking.bancoamazonia.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=hoQKIwN72WqCr\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=zsn7HHzSDyOwB\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Box3xCL3OjbXa\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Zww47Mz1lJktf\u0026public=true"
+	]
+}
