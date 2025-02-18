@@ -1,0 +1,9 @@
+{
+	"api": "enrollments_v2.1.0",
+	"sd": "72098",
+	"well-known": "https://openfinance-homol.sicoob.com.br/orgs/61185d64576d510022fa62c4/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DSHikMecQJDrJ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9x5dEUK6xOrGF\u0026public=true"
+	]
+}
