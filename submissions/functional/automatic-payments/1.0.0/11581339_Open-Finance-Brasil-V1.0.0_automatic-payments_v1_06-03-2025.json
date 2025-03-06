@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "74349",
+	"well-known": "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=mgsLgMFf1Fu1M\u0026public=true\r\n\r\n \r\nhttps://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=c1PvnzeplXFm3\u0026public=true\r\n \r\n \r\nhttps://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=2gKMKaarrcJ2r\u0026public=true\r\n \r\n \r\nhttps://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=4TwXs0zbQcivh\u0026public=true\r\n \r\nhttps://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ysZSWCd10YIwX\u0026public=true\r\n\r\n \r\nhttps://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=GmcFa09kXQZYs\u0026public=true\r\n\r\n ",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=mgsLgMFf1Fu1M\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=4TwXs0zbQcivh\u0026public=true"
+	]
+}
