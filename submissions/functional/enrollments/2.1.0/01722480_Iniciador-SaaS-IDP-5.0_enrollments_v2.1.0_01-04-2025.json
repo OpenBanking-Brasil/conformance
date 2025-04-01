@@ -1,0 +1,9 @@
+{
+	"api": "enrollments_v2.1.0",
+	"sd": "78508",
+	"well-known": "https://auth-sandbox-verdecard.inic-of.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=yrBmDEk1wFe16\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=kOrlTRkrFGkU7\u0026public=true"
+	]
+}
