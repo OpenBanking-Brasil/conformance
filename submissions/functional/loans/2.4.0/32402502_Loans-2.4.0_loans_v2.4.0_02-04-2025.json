@@ -1,0 +1,8 @@
+{
+	"api": "loans_v2.4.0",
+	"sd": "78614",
+	"well-known": "https://api-openfinance.qitech.app/orgs/qitech/.well-known/openid-configuration\r\n",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=nAfjfUbfmPEQr\u0026public=true"
+	]
+}
