@@ -1,6 +1,6 @@
 {
 	"api": "automatic-payments_v2",
-	"sd": "41270",
+	"sd": "79466",
 	"well-known": "https://oauth.bb.com.br/oauth/of/bancodobrasil/.well-known/openid-configuration",
 	"test_plan_uri": [
 		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=0mXQYBnlQBK7T\u0026public=true",
