@@ -1,0 +1,14 @@
+{
+	"api": "automatic-payments_v2.0.0",
+	"sd": "81048",
+	"well-known": "https://customerdata-mtls.of.bb.com.br/bancodobrasil/open-banking/automatic-payments/v2/pix/recurring-payments\r\nhttps://customerdata-mtls.of.bb.com.br/bancodobrasil/open-banking/automatic-payments/v2/pix/recurring-payments/{recurringPaymentId}\r\nhttps://customerdata-mtls.of.bb.com.br/bancodobrasil/open-banking/automatic-payments/v2/recurring-consents\r\nhttps://customerdata-mtls.of.bb.com.br/bancodobrasil/open-banking/automatic-payments/v2/recurring-consents/{recurringConsentId}",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Z74jix7ioxwWn\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=npIx1MrHOjPZa\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=AdILSloVewh9x\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=vgYrGISD8Knh9\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=42S5pDFiDkEsQ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=MwTDEZTKlbTCI\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ONegNVbDST6oJ\u0026public=true"
+	]
+}
