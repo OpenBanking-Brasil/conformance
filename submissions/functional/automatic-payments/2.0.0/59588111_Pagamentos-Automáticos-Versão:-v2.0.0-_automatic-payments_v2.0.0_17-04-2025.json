@@ -1,0 +1,14 @@
+{
+	"api": "automatic-payments_v2.0.0",
+	"sd": "81020",
+	"well-known": "Well-known de produção --\u003e https://api-openbanking.bvopen.com.br/oidc/v1/internet-banking/.well-known/openid-configuration\r\n \r\nWell-known de sandbox --\u003e  https://api-uat.bvopen.com.br/oidc/v1/app-bv/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gn60tgVADm6Ez\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=HdyvukEQjSNuK\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=3GGnK0I2Kwkrd\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=fphC44V6pNcwI\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ML4F5KenpkeGx\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=JfIMRX2KL4ngA\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=lJaOiYELDajgT\u0026public=true"
+	]
+}
