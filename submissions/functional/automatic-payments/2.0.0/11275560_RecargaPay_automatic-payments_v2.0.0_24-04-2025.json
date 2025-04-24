@@ -1,0 +1,17 @@
+{
+	"api": "automatic-payments_v2.0.0",
+	"sd": "81202",
+	"well-known": "https://api.of.recargapay.com.br/orgs/recarga-pay/.well-known/openid-configuration"
+  "test_plan_uri": [
+    "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=yiP6FFYZ7uVbW&public=true",
+    "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=hpBdTzN929kaI&public=true",
+    "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=70UEn0II4TIgp&public=true",
+    "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=3tUCBmpIL9WUh&public=true",
+    "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=89yluPyTPqW9t&public=true",
+    "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=lDTo0Xi8GK9E3&public=true",
+    "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=YcYzzQCAlxNFx&public=true",
+    "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=IpQiibDzXhZ2y&public=true",
+    "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=EGVIqXEBj3wrP&public=true",
+    "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Vxad44o6PyP0R&public=true"
+	]
+}
