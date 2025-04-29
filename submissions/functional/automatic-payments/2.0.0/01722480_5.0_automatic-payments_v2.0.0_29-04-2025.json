@@ -1,0 +1,14 @@
+{
+	"api": "automatic-payments_v2.0.0",
+	"sd": "81522",
+	"well-known": "https://auth-sandbox-verdecard.inic-of.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=peJI5ebVbxOvF\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=W3PZ3Z5DMO8bL\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=vK4zemYa5fwkF\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=UXZbuCIoJyrzG\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=xAXiDEgTAaO7D\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=oGxMSw9Zix7PG\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=GrFMgJUStw2eR\u0026public=true"
+	]
+}
