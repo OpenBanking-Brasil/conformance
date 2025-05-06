@@ -1,0 +1,14 @@
+{
+	"api": "automatic-payments_v2.0.0",
+	"sd": "83475",
+	"well-known": "https://api.2ka9mr3c.dev.9v72vk5m.fsapps.app/orgs/crefisa/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=eQPJcBDBNtPEB\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Vv9kuto4QcyGn\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Kl80taPVO8qEF\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=2rYtUfVic0nLp\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=y0WOIclnOfHSr\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=2dRvag3fpp1ls\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=UeyGroubF179D\u0026public=true"
+	]
+}
