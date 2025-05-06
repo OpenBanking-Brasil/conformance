@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "83447",
+	"well-known": "https://auth1.openbanking.banese.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=BYSRiCKRDyC8e\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=4Rxz4gkdqWIur\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=1DBTGV0L5r4zY\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=5pAIbLKfQ7K57\u0026public=true"
+	]
+}
