@@ -1,0 +1,14 @@
+{
+	"api": "automatic-payments_v2.0.0",
+	"sd": "83515",
+	"well-known": "https://api.caruana.dev.hub.fsapps.io/orgs/caruana/.well-know/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=hVoevUcOhB1Gi\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=iT94dMwLvDANw\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Kv8mwYrcpv4li\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=JjZpyPONskg0g\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=WxijNDz9N1Wxi\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=lQkqdCldYTghI\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=LHXpJgpEFBJUW\u0026public=true"
+	]
+}
