@@ -1,0 +1,9 @@
+{
+	"api": "automatic-payments_v1",
+	"sd": "83626",
+	"well-known": "https://auth1.api-openbanking.bancomaster.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=bBpE3mcDrwDnQ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=15cEy4dPrFeg2\u0026public=true"
+	]
+}
