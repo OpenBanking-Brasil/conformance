@@ -1,0 +1,9 @@
+{
+	"api": "bank-fixed-incomes_v1.0.4",
+	"sd": "83571",
+	"well-known": "https://openbanking.sandbox.api.pagseguro.com/auth/realms/open-banking/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=RW4FcOk6Ns5sb\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=QrHE8CPrI8iCg\u0026public=true"
+	]
+}
