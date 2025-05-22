@@ -1,0 +1,8 @@
+{
+	"api": "personal_v2.2.0",
+	"sd": "83802",
+	"well-known": "https://openbanking-hml.ofb-sandbox.delend.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=X6cTzsgpvfHj6\u0026public=true"
+	]
+}
