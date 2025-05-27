@@ -1,0 +1,8 @@
+{
+	"api": "resources_v3.0",
+	"sd": "87525",
+	"well-known": "https://auth-obk.brb.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=OMKsWQtWDti6F\u0026public=true"
+	]
+}
