@@ -1,0 +1,8 @@
+{
+	"api": "invoice-financings_v2.3.0",
+	"sd": "88549",
+	"well-known": "https://auth-obk.brb.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=E5B1no5pVHbFb\u0026public=true"
+	]
+}
