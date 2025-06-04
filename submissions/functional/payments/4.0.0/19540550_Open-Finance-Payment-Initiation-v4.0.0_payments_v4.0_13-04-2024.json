@@ -1,5 +1,5 @@
 {
-	"api": "payments_v4/0",
+	"api": "payments_v4.0",
 	"sd": "40620",
 	"well-known": "https://openfinance.homolog.asaas.com/oidc/.well-known/openid-configuration",
 	"test_plan_uri": [
