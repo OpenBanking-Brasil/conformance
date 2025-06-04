@@ -48,6 +48,11 @@ jobs:
         cd export_data/
         go run main.go -t phase3 -v 2
 
+    - name: Run export data for phase3 v3
+      run: |
+        cd export_data/
+        go run main.go -t phase3 -v 3
+
     - name: Run conformance table generator for phase3 v3
       env:
         PAT: ${{ secrets.PAT }}
@@ -66,6 +71,14 @@ jobs:
       run: |
         cd conformance_table_generator/
         go run main.go -phase phase3-webhookv1 -apis webhook_1.0
+
+    - name: Run conformance table generator for phase2 current
+      env:
+        PAT: ${{ secrets.PAT }}
+      run: |
+        cd conformance_table_generator/
+        go run main.go -phase phase2-current -apis "accounts_2.4.1 business_2.2.0 consents_3.2.0 credit-card_2.3.1 financings_2.3.0 invoice-financings_2.3.0 loans_2.4.0 personal_2.2.0 resources_3.0 unarranged-overdraft_2.4.0"
+    
     
     - name: Get current date
       id: date
