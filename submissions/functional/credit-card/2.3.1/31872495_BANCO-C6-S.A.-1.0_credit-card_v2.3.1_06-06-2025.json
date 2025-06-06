@@ -1,0 +1,8 @@
+{
+	"api": "credit-card_v2.3.1",
+	"sd": "90421",
+	"well-known": "https://api.sandbox.c6bank.com.br/auth/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=2ZnSFvSeAT6la\u0026public=true"
+	]
+}
