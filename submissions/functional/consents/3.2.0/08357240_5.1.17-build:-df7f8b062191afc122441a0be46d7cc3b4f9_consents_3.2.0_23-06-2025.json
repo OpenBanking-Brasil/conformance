@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.2.0",
+	"sd": "92454",
+	"well-known": "https://openfinancehom.carrefoursolucoes.com.br/samsclub/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=l1gIwIyiZ8mWh&public=true"
+	]
+}
