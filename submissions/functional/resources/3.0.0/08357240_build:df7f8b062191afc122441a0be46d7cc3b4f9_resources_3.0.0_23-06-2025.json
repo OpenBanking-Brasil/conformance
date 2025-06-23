@@ -1,0 +1,8 @@
+{
+	"api": "resources_v3.0.0",
+	"sd": "92453",
+	"well-known": "https://openfinancehom.carrefoursolucoes.com.br/atacadao/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=wGfdfdUzgvr7a&public=true"
+	]
+}
