@@ -1,0 +1,8 @@
+{
+	"api": "invoice-financings_v2.3.0",
+	"sd": "94344",
+	"well-known": "https://auth-business.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration\r\nhttps://auth.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=XRK5d8PpWqhcQ\u0026public=true"
+	]
+}
