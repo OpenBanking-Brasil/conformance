@@ -1,0 +1,8 @@
+{
+	"api": "business_v2.2.0",
+	"sd": "94245",
+	"well-known": "https://auth-business.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration\r\nhttps://auth.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=18pYkiIMvc56S\u0026public=true"
+	]
+}
