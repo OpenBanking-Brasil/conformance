@@ -1,0 +1,8 @@
+{
+	"api": "unarranged-overdraft_v2.4.0",
+	"sd": "94372",
+	"well-known": "https://auth-business.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration\r\nhttps://auth.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=3RDjGfT1gZB7R\u0026public=true"
+	]
+}
