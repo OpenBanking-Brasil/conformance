@@ -1,0 +1,10 @@
+{
+	"api": "bank-fixed-incomes_v1.0.4",
+	"sd": "94554",
+	"well-known": [
+		"https://auth.openbanking.midway.com.br/.well-known/openid-configuration",
+	],
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=D6fB7oz3lmYsZ&public=true",
+	]
+}
