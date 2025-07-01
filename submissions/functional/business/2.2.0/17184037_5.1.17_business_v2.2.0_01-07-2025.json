@@ -1,0 +1,8 @@
+{
+	"api": "business_v2.2.0",
+	"sd": "94561",
+	"well-known": "https://openfinance.mercantil.com.br/orgs/mercantil/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=sffpc55N5Rw8E&public=true"
+	]
+}
