@@ -2,9 +2,9 @@
 	"api": "bank-fixed-incomes_v1.0.4",
 	"sd": "94376",
 	"well-known": [
-"https://auth-business.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration",
-"https://auth.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration",
-],
+		"https://auth-business.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration",
+		"https://auth.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration",
+	],
 	"test_plan_uri": [
 		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=bjjwV15BvWPgu&public=true",
 	]
