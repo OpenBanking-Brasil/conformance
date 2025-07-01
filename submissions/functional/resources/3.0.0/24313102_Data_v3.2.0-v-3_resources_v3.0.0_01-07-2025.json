@@ -1,0 +1,8 @@
+{
+	"api": "resources_v3.0.0",
+	"sd": "94590",
+	"well-known": "https://openfinance.sim.didiglobal.com/auth-server/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=S3lgIBhn35C7i&public=true"
+	]
+}
