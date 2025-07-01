@@ -1,6 +1,6 @@
 {
 	"api": "bank-fixed-incomes_v1.0.4",
-	"sd": "94560",
+	"sd": "94376",
 	"well-known": [
 "https://auth-business.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration",
 "https://auth.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration",
