@@ -1,0 +1,9 @@
+{
+	"api": "credit-card_v2.3.1",
+	"sd": "94554",
+	"well-known": "https://auth.openbanking.midway.com.br/.well-known/openid-configuration",
+"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Ir7qyfaJAEkLf&public=true"
+	]
+}
+
