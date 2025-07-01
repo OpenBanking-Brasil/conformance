@@ -1,0 +1,8 @@
+{
+	"api": "resources_v3.0.0",
+	"sd": "94544",
+	"well-known": "https://api.b3i.hml.linaob.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=OE9VbVdH48xW1&public=true"
+	]
+}
