@@ -1,0 +1,11 @@
+{
+	"api": "credit-fixed-incomes_v1.0.3",
+	"sd": "94377",
+	"well-known": [
+		"https://auth-business.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration",
+		"https://auth.openbanking.bancointer.com.br/oauth/.well-known/openid-configuration"
+  ],
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=KAP2UUok7KnTC&public=true"
+	]
+}
