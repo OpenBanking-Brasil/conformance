@@ -1,0 +1,8 @@
+{
+	"api": "bank-fixed-incomes_v1.0.4",
+	"sd": "94512",
+	"well-known": "https://api.master.linaob.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=RX7HtX2zY7NUk&public=true"
+	]
+}
