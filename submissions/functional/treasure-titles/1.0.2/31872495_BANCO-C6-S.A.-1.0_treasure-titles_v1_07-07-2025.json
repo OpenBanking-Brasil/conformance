@@ -1,0 +1,9 @@
+{
+	"api": "treasure-titles_v1",
+	"sd": "95989",
+	"well-known": "https://api.sandbox.c6bank.com.br/auth/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=VRrCKkRLmvbd6\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ZSAEseB4jo2FW\u0026public=true"
+	]
+}
