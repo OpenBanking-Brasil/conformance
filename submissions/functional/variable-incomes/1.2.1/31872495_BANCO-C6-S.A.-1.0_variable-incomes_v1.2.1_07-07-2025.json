@@ -1,0 +1,9 @@
+{
+	"api": "variable-incomes_v1.2.1",
+	"sd": "95991",
+	"well-known": "https://api.sandbox.c6bank.com.br/auth/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=HgwWMnMZ9uyTY\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FnYWXIj6JDAgs\u0026public=true"
+	]
+}
