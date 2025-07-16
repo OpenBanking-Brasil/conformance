@@ -1,0 +1,8 @@
+{
+	"api": "resources_v3.0",
+	"sd": "97837",
+	"well-known": "https://api.2ka9mr3c.dev.9v72vk5m.fsapps.app/orgs/crefisa/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=yFRuYT3QLfxsa\u0026public=true"
+	]
+}
