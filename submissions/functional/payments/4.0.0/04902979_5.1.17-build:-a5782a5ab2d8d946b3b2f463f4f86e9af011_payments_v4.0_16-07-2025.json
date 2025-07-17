@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "96961",
+	"well-known": "https://api.basa.linaob.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=q9KvD9dg9p7zf\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Ye5J4BOqaROur\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=GRqDN2jEc7uib\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=zoPo5LLMxi3Mh\u0026public=true"
+	]
+}
