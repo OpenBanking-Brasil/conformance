@@ -1,0 +1,9 @@
+{
+	"api": "bank-fixed-incomes_v1.0.4",
+	"sd": "100349",
+	"well-known": "https://api.2ka9mr3c.dev.9v72vk5m.fsapps.app/orgs/crefisa/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FISufcZQeaH6F\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=OTa6KaDZm7a6X\u0026public=true"
+	]
+}
