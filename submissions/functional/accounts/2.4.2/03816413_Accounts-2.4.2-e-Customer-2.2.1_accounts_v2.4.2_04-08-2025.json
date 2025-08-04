@@ -1,0 +1,8 @@
+{
+	"api": "accounts_v2.4.2",
+	"sd": "101803",
+	"well-known": "https://auth-sandbox.openfinance.pagueveloz.com.br/of-auth/realms/pagueveloz-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=OTb1LolgfYtVc\u0026public=true"
+	]
+}
