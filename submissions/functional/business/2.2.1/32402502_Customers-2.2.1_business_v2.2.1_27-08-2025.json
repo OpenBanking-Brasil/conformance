@@ -1,0 +1,8 @@
+{
+	"api": "business_v2.2.1",
+	"sd": "106651",
+	"well-known": "https://api-openfinance.qitech.app/orgs/qitech/.well-known/openid-configuration\r\n",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=69cMDji31F3S1\u0026public=true"
+	]
+}
