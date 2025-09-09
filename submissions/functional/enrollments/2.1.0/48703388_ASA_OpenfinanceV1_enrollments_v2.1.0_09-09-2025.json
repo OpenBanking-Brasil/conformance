@@ -1,0 +1,9 @@
+{
+	"api": "enrollments_v2.1.0",
+	"sd": "109071",
+	"well-known": "https://api-opf-sandbox.asa.com.br/of-auth/realms/asa-sbx/.well-known/openid-configuration  (homologação ) \r\n\r\nhttps://api-opf.asa.com.br/of-auth/realms/asa/.well-known/openid-configuration (produção )_ ",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=eY8NrrfBwJQp2\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=luUJl5LWCaLpu\u0026public=true"
+	]
+}
