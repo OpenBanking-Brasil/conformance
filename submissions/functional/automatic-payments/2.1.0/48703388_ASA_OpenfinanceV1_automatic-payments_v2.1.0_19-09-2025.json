@@ -1,0 +1,14 @@
+{
+	"api": "automatic-payments_v2.1.0",
+	"sd": "111377",
+	"well-known": "OpenID Discovery Document URI\r\nhttps://api-opf.asa.com.br/of-auth/realms/asa/.well-known/openid-configuration\r\nEmissor (Issuer)\r\nhttps://api-opf.asa.com.br/of-auth/realms/asa",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=elTHjwEj9jn0v\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=k9SG9ur6nzNix\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=02Gy9ZQKCasjo\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Gdv7MgTnYCEmB\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=F1sOBF1ZGQvvY\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=lgTJYDnKmvg4q\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=wiv8xNByzMUvi\u0026public=true"
+	]
+}
