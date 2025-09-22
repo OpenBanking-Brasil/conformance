@@ -1,0 +1,8 @@
+{
+	"api": "loans_v2.5.0",
+	"sd": "107492",
+	"well-known": " https://opin.icatuseguros.com.br/orgs/icatu/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=BlFXby5gYQt8a\u0026public=true"
+	]
+}
