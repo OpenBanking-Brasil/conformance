@@ -1,0 +1,8 @@
+{
+	"api": "loans_v2.5.0",
+	"sd": "112430",
+	"well-known": "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=C5wMv82CBNSZf\u0026public=true",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=C5wMv82CBNSZf\u0026public=true"
+	]
+}
