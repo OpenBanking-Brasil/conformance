@@ -1,0 +1,9 @@
+{
+	"api": "enrollments_v2.1.0",
+	"sd": "112174",
+	"well-known": "https://api-openbanking.bvopen.com.br/oidc/v1/app-bv/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=mxUztg0S3CgSd\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=G1Upq4Q1ktjBT\u0026public=true"
+	]
+}
