@@ -1,0 +1,8 @@
+{
+	"api": "consents_v3.2.0",
+	"sd": "115171",
+	"well-known": "https://open.kinvo.btgpactual.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=PwMAe3gyfXJbI\u0026public=true"
+	]
+}
