@@ -1,0 +1,8 @@
+{
+	"api": "accounts_v2.4.2",
+	"sd": "116184",
+	"well-known": "Informação do Well-Known\r\nOpenID Discovery Document URI\r\nhttps://api-opf.asa.com.br/of-auth/realms/asa/.well-known/openid-configuration\r\nEmissor (Issuer)\r\nhttps://api-opf.asa.com.br/of-auth/realms/asa",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=JVzCOZng8aLMg\u0026public=true"
+	]
+}
