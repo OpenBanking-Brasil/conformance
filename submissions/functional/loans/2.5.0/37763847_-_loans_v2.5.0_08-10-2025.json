@@ -1,0 +1,8 @@
+{
+	"api": "loans_v2.5.0",
+	"sd": "117022",
+	"well-known": "https://auth.platform.open-co.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=zQY5CNiZnANYR\u0026public=true"
+	]
+}
