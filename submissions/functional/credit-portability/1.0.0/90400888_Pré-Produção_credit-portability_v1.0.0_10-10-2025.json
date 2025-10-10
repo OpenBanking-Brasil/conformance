@@ -1,0 +1,8 @@
+{
+	"api": "credit-portability_v1.0.0",
+	"sd": "117535",
+	"well-known": "https://openbanking.api.santander.com.br/open-banking/security/v2/santander-pf/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=nJtxnCVKOzcma\u0026public=true"
+	]
+}
