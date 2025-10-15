@@ -1,0 +1,8 @@
+{
+	"api": "credit-portability_v1.0.0",
+	"sd": "118327",
+	"well-known": "https://auth.openfinance.bnb.gov.br/of-auth/realms/bnb/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=06sNldgFJF0or\u0026public=true"
+	]
+}
