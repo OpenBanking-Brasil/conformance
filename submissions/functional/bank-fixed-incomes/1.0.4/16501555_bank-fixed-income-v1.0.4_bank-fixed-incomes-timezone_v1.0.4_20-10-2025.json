@@ -1,0 +1,9 @@
+{
+	"api": "bank-fixed-incomes-timezone_v1.0.4",
+	"sd": "118712",
+	"well-known": "https://external.openfinance.stone.com.br/of-auth/realms/stone/.well-known/openid-configuration\r\n",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=zImAg3lekiEF8\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=LjL1ZECpeCcDu\u0026public=true"
+	]
+}
