@@ -1,0 +1,8 @@
+{
+	"api": "loans_v2.5.0",
+	"sd": "118709",
+	"well-known": "https://api.sandbox.c6bank.com.br/auth/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=3myWuousstpfI\u0026public=true"
+	]
+}
