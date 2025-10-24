@@ -1,0 +1,8 @@
+{
+	"api": "credit-portability_v1.0.0",
+	"sd": "121186",
+	"well-known": "https://login.openbanking.caixa.gov.br/.well-known/openid-configuration ",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=83B7wOYeZj80X\u0026public=true"
+	]
+}
