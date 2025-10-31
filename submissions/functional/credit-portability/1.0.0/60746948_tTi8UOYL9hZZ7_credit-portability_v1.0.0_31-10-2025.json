@@ -1,7 +1,7 @@
 {
 	"api": "credit-portability_v1.0.0",
 	"sd": "122857",
-	"well-known": "https://api.bradesco.com/bradesco/pf/open-banking/.well-known/openid-configuration",
+	"well-known": ["https://api.bradesco.com/bradesco/pf/open-banking/.well-known/openid-configuration","https://api.bradesco.com/next/open-banking/.well-known/openid-configuration"],
 	"test_plan_uri": [
 		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=tTi8UOYL9hZZ7\u0026public=true"
 	]

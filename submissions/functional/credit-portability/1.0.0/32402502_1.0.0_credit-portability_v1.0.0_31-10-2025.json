@@ -1,0 +1,8 @@
+{
+	"api": "credit-portability_v1.0.0",
+	"sd": "122860",
+	"well-known": "https://api-openfinance.qitech.app/orgs/qitech/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=97ClRW4t0YMdu\u0026public=true"
+	]
+}
