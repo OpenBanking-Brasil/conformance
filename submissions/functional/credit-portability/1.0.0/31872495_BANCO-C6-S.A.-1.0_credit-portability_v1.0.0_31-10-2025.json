@@ -1,0 +1,8 @@
+{
+	"api": "credit-portability_v1.0.0",
+	"sd": "122915",
+	"well-known": "https://openfinance.sandbox.c6bank.com.br/orgs/c6/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=EGzag08HAya05\u0026public=true"
+	]
+}
