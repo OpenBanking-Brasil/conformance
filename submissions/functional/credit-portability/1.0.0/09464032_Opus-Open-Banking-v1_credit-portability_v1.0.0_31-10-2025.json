@@ -1,0 +1,8 @@
+{
+	"api": "credit-portability_v1.0.0",
+	"sd": "122550",
+	"well-known": "auth.openbanking.midway.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=EWqKtJrn1qKMq\u0026public=true"
+	]
+}
