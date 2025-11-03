@@ -1,0 +1,8 @@
+{
+	"api": "credit-portability_v1.0.0",
+	"sd": "122185",
+	"well-known": "https://open.btgmais.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ajdw22sewp2ug\u0026public=true"
+	]
+}
