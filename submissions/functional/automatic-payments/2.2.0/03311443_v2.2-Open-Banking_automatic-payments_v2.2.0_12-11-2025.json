@@ -1,0 +1,12 @@
+{
+	"api": "automatic-payments_v2.2.0",
+	"sd": "125489",
+	"well-known": ["https://api-openbanking.sbox.openbanking.parati-cfi.com.br/open-banking/automatic-payments/v2/pix/recurring-payments",
+  "https://api-openbanking.sbox.openbanking.parati-cfi.com.br/open-banking/automatic-payments/v2/recurring-consents"
+  ],
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=I4WmXKcq8337x&public=true",
+    "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=KsdssDZoN6HPp&public=true",
+    "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=7nxEXVAzaJeUl&public=true"
+	]
+}
