@@ -1,0 +1,8 @@
+{
+	"api": "loans_v2.5.0",
+	"sd": "128611",
+	"well-known": "https://bnabr-ofb-tpp-prod.bnabr.com.br/auth/realms/33042151/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=QtcFsSCCA9WPE\u0026public=true"
+	]
+}
