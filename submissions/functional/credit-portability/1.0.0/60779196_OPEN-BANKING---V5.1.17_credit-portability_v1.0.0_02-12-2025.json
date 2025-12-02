@@ -1,0 +1,8 @@
+{
+	"api": "credit-portability_v1.0.0",
+	"sd": "129428",
+	"well-known": "https://api.2ka9mr3c.dev.9v72vk5m.fsapps.app/orgs/crefisa/.well-known/openid-configuration\r\n\r\n\r\n",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=cSlfHgV7YzQt2\u0026public=true"
+	]
+}
