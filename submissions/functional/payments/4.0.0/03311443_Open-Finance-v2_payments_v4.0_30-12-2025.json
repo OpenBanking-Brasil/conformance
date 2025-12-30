@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "152126",
+	"well-known": "https://api-openbanking.sbox.openbanking.parati-cfi.com.br",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Du1zEs20lMl8T&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Qsxv8SUaUVlJo&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=SxbAhclkRuUvv&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jgLRvqzytEvGa&public=true"
+	]
+}
