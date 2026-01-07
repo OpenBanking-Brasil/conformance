@@ -1,0 +1,14 @@
+{
+	"api": "automatic-payments_v2.2.0",
+	"sd": "153253",
+	"well-known": "https://obbr-auth.pinbank.cipbanfico.com/auth/realms/provider/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=zB1SFuXgLmRW6\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=0ryqkrXet8oYP\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=lUb0czR8VEKJx\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gjBoW8YIdZqoe\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=U2QdOXaIVFHDk\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9r2RINJOFj41O\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=kGPjIYpPPXFMq\u0026public=true"
+	]
+}
