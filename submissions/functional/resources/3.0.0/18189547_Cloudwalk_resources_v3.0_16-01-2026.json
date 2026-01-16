@@ -1,0 +1,8 @@
+{
+	"api": "resources_v3.0",
+	"sd": "154953",
+	"well-known": "https://qrcode.openfinance.banking.infinitepay.io/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=627mslpUNGjoO\u0026public=true"
+	]
+}
