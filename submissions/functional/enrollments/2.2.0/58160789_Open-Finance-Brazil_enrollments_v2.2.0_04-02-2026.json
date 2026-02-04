@@ -1,0 +1,11 @@
+{
+	"api": "enrollments_v2.2.0",
+	"sd": "160866",
+	"well-known": "https://api-mtls.safra.com.br/open-banking/auth/realms/SafraPF/.well-known/openid-configuration\r\nhttps://api-mtls.safra.com.br/open-banking/auth/realms/SafraPJ/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=piwibSph64JRE\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=CWZV4uTruMSVl\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=uTde9QOzpvTnI\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=hWZnnFPwwE7dG\u0026public=true"
+	]
+}
