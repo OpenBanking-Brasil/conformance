@@ -1,0 +1,8 @@
+{
+	"api": "resources_v3.0",
+	"sd": "161171",
+	"well-known": "https://openid.net/wp-content/uploads/2025/07/signed-2ThhXE8WjAaNH-fapi1-advanced-final-test-plan-private_key_jwt-pushed-openbanking_brazil-plain_response-2ThhXE8WjAaNH-13-Jun-2025-1.zip\r\n\r\n\r\nhttps://openid.net/wp-content/uploads/2025/07/signed-bXzP0GqxlvW0I-fapi1-advanced-final-brazil-dcr-test-plan-private_key_jwt-pushed-openbanking_brazil-plain_response-bXzP0GqxlvW0I-13-Jun-2025-1.zip",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=u1f6w70x5Rbhc\u0026public=true"
+	]
+}
