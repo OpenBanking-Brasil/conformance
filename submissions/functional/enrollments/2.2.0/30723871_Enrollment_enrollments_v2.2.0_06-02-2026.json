@@ -1,0 +1,11 @@
+{
+	"api": "enrollments_v2.2.0",
+	"sd": "161217",
+	"well-known": "https://auth.open.banqi.com/.well-known/openid-configuration\r\nhttps://auth.dev.open.banqi.com/.well-known/openid-configuration\r\n",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=mPqW0kApWOi0R\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=fC5M5i7LaYIzm\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=6yE1FGCYixwMj\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=rS1MqQN9Vp6mF\u0026public=true"
+	]
+}
