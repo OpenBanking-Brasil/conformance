@@ -1,0 +1,12 @@
+{
+	"api": "enrollments_v2.2.0",
+	"sd": "161445",
+	"well-known": "https://auth-sandbox.openfinance.ailos.coop.br/of-auth/realms/ailos-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=H2WvTNf8WJop1&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=h1uQRNNLNT2Ey&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=yZLSt5HGOzM5u&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=17axJo11LljvX&public=true",
+    "https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=HJvG4cf8HQVSX&public=true"
+	]
+}
