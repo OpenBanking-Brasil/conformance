@@ -1,0 +1,11 @@
+{
+	"api": "enrollments_v2.2.0",
+	"sd": "161339",
+	"well-known": "https://openid.net/wp-content/uploads/2025/08/Shopee-Shopee_Open_Finance_2.0_Aug2025-BR_OF_Adv_OP_DCR_v2-04-Aug-2025.zip\r\n\r\nhttps://openid.net/wp-content/uploads/2025/08/Shopee-Shopee_Open_Finance_2.0_Aug2025-BR_OF_Adv_OP_PrivateKey_PAR_v2-04-Aug-2025.zip.zip",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=6JlHaO2ZdtTPj\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=WvJ8tqXDfKeLS\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=IhV3OA0SAJ1fR\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=rhaQAeDLN5h58\u0026public=true"
+	]
+}
