@@ -1,0 +1,11 @@
+{
+	"api": "enrollments_v2.2.0",
+	"sd": "161444",
+	"well-known": "OpenID Discovery Document URI\r\nhttps://openbanking.bancoguanabara.com.br/orgs/guanabara/.well-known/openid-configuration\r\n\r\nEmissor (Issuer)\r\nhttps://openbanking.bancoguanabara.com.br/orgs/guanabara",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=tkLAVkagGfby7\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=N4yae6UkdU6cW\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=LZPkBIlAgIpkW\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=UW1rVEWwuhEJe\u0026public=true"
+	]
+}
