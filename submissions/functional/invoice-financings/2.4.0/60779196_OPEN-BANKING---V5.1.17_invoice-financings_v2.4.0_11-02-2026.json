@@ -1,0 +1,8 @@
+{
+	"api": "invoice-financings_v2.4.0",
+	"sd": "162781",
+	"well-known": "https://api.dev.2ka9mr3c.sandbox.fsapps.app/orgs/crefisa/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=b2OEZlovsrNa9\u0026public=true"
+	]
+}
