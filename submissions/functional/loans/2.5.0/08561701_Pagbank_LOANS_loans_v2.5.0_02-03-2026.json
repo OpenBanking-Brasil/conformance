@@ -1,0 +1,8 @@
+{
+	"api": "loans_v2.5.0",
+	"sd": "168031",
+	"well-known": "https://openbanking.sandbox.api.pagseguro.com/auth/realms/open-banking/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=0xIBnOV7IBP5L\u0026public=true"
+	]
+}
