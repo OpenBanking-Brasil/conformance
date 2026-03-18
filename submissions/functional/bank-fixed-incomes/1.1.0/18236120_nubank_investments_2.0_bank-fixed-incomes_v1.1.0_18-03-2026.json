@@ -1,0 +1,9 @@
+{
+	"api": "bank-fixed-incomes_v1.1.0",
+	"sd": "175188",
+	"well-known": "https://openbanking.api.nubank.com.br/api/pub/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=aV0qcZVetXegS\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=2I4BPpYnmsto8\u0026public=true"
+	]
+}
