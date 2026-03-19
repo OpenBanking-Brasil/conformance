@@ -1,0 +1,9 @@
+{
+	"api": "bank-fixed-incomes-timezone_v1.1.0",
+	"sd": "176005",
+	"well-known": "https://as.of.recargapay.com.br/realms/master/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=a6uvUYEaNGHe7\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=sc7auuNdzwFy9\u0026public=true"
+	]
+}
