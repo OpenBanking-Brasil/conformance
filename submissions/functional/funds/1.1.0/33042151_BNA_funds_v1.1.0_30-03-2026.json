@@ -1,0 +1,9 @@
+{
+	"api": "funds_v1.1.0",
+	"sd": "179032",
+	"well-known": "https://auth.187.33.116.215.nip.io/auth/realms/test/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gfGvyYYC17fjS\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=fglGA0Vv7U8SD\u0026public=true"
+	]
+}
