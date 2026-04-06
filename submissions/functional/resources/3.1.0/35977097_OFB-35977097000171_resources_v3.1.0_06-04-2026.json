@@ -1,0 +1,8 @@
+{
+	"api": "resources_v3.1.0",
+	"sd": "181989",
+	"well-known": "https://api.open.upp.com.br/orgs/upp/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=2FcvU3WUTIZ4F\u0026public=true"
+	]
+}
