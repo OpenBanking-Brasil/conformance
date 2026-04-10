@@ -1,0 +1,9 @@
+{
+	"api": "funds_v1.1.0",
+	"sd": "183128",
+	"well-known": "https://openbanking.bancoguanabara.com.br/orgs/guanabara/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=hlbEvUQv3a64U\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ugRygobU6zSSI\u0026public=true"
+	]
+}
