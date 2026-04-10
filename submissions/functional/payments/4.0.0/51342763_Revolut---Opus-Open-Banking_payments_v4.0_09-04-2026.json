@@ -1,0 +1,11 @@
+{
+	"api": "payments_v4.0",
+	"sd": "183054",
+	"well-known": "https://oba-br.revolut.codes/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=8fbRSrESepLMX\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FLfFO6uKxEukT\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=UcnLiWujakEya\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gd9mGAOg6Ceyv\u0026public=true"
+	]
+}
