@@ -1,0 +1,8 @@
+{
+	"api": "business_v2.3.0",
+	"sd": "190126",
+	"well-known": "https://openbanking.api.nubank.com.br/api/pub/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jW1HHCHj9Dqqr\u0026public=true"
+	]
+}
