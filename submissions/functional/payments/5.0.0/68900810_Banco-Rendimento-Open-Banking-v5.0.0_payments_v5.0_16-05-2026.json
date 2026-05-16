@@ -1,0 +1,13 @@
+{
+	"api": "payments_v5.0",
+	"sd": "195531",
+	"well-known": "https://obbr-auth.openbanking.rendimento.com.br/auth/realms/provider/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=LVbC3VYAwuuCh\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=26qmJiqTDX93u\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=5XV3s7jqWaNRO\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=AYYj7mkVbNj7M\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=VzUR9FOfZF1H7\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=khZkkQMQFSyw2\u0026public=true"
+	]
+}
