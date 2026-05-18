@@ -1,0 +1,21 @@
+{
+	"api": "payments_v5.0",
+	"sd": "196164",
+	"well-known": "https://api.tu.prebanco.com.br/bradesco/pf/open-banking/.well-known/openid-configuration\r\n\r\nhttps://api.tu.prebanco.com.br/bradesco/pj/open-banking/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=MxODlfSv0A33m\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=E5dkuCiu9FnFW\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9yj42VvWdhSrD\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9yj42VvWdhSrD\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=P49dXJU1WOFjk\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=P49dXJU1WOFjk\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=k1dP3q1Csx4YK\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=k1dP3q1Csx4YK\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=stEU3Q8Riiqnt\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=stEU3Q8Riiqnt\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DwtlG7rbCcp2C\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DwtlG7rbCcp2C\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=BMjzAbVGT5pNW\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=BMjzAbVGT5pNW\u0026public=true"
+	]
+}
