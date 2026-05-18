@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "196151",
+	"well-known": "https://auth.sandbox.openfinance.bnb.gov.br/of-auth/realms/bnb-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ifyykbUuk4OiI\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DoXPi2az26j7L\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=uvY8yMSsWi9Aj\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=OAzqq0ORUs3we\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=MRfTByLdbhf4f\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=AfjhLl6wsd1OS\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jpwGHFGnKIfNk\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=KYYLqxP6Otqeo\u0026public=true"
+	]
+}
