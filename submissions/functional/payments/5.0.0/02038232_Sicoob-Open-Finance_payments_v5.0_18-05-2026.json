@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "196278",
+	"well-known": "https://openfinance-homol.sicoob.com.br/orgs/61185d64576d510022fa62c4/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=rr7Dkndj75vpA\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=bD9CFYjqcjfJm\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=fGrPPt3o2DnCC\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=TvUjCI86PqmtY\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=YcdP969R2r2fn\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=BeX7O9AJOJ2Hs\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=3YVqd2Vw6Rx9G\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=36Qp7iIJpO0wF\u0026public=true"
+	]
+}
