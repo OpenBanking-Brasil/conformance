@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "196318",
+	"well-known": "https://api-open-finance.cielo.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=n4UT6Mc1PDgKi\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=EWr0fc96m8mh8\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=G0zuXpBAe2da2\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=SGqNM1GTBWOvu\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ZzbASk9dlxqUg\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=c1gkdk5Zrpw1r\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9Y3iPxS0jDdtF\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=hyGZ7B3guF0YM\u0026public=true"
+	]
+}
