@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "196550",
+	"well-known": "https://trust-openbanking.api.santander.com.br/",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ynSm0ilJgdlWT\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=18sEA7mxK4ygw\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=fWJPAoQLlS7rc\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ONm5Kstqh5i1K\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ABSL5KiwTMmiK\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=N4WOApfnQQMjz\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=vpEHPk0AC1a2f\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=vobSnC0Oo3kc7\u0026public=true"
+	]
+}
