@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "196503",
+	"well-known": "PERNAMBUCANAS: https://pernambucanas.opf.pefisa.com.br/.well-known/openid-configuration\r\nPEFISA:  https://opf.pefisa.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=4XtEvsoroCqSG\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=24phWCZxBeEun\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=tsf8H6KtsroaC\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Fh7hktrKKKGlH\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=V20oW6Ja5ZB7h\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=enCKVGrnxfZzD\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=qLm6UPsfVLEBC\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9Cp6qpYs2YJYS\u0026public=true"
+	]
+}
