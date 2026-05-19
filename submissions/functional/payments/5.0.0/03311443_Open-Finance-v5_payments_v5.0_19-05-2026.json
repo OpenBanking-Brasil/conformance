@@ -1,0 +1,13 @@
+{
+	"api": "payments_v5.0",
+	"sd": "196555",
+	"well-known": "open finance",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ty3En5JKzy5xb\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=cXZVs8X2elOG0\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=09vr97VtMilo8\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=4oFcupVTne1tf\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jv8MkLI91npyA\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9f1a72A2ZEUso\u0026public=true"
+	]
+}
