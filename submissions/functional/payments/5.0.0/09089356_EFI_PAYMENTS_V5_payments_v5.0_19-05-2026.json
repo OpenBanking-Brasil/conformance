@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "196535",
+	"well-known": "https://api-sandbox-efi.inic-of.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=NYkRcHKOD1FcA\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=7afgcyFk8TXku\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=HKcoPAYinu0dS\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=A0UhtCBPpz3Cv\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=s2FdKtb0k1iGn\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=cibjIZFrRuitO\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jIu1Fqxu5D4sN\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=7q5yQnaZKhg8K\u0026public=true"
+	]
+}
