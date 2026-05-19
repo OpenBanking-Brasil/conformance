@@ -1,0 +1,13 @@
+{
+	"api": "payments_v5.0",
+	"sd": "196534",
+	"well-known": "https://auth.unicred.com.br/of-auth/realms/unicred/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=KtFFd0jMJ8PQY\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=v5zZfCWLDY1t2\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=nQWmTTNSftU8q\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=TUDIwPwTNRgS0\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=5LzCu5xojEQXJ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=kArgMrO3RLh4u\u0026public=true"
+	]
+}
