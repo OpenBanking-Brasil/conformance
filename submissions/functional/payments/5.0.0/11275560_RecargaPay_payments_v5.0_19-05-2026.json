@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "196505",
+	"well-known": "https://as.of.recargapay.com.br/realms/master/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=eE6ccilAmz9am\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gNCyIHPBu9qOl\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=H3vEFNdsVEAHU\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=HFZENA7d54lhR\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=cJU1MRgbo05Bl\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=U5jCv9LjStcHO\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=o1BBgTsjsDn4g\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gUDMNDITVcmrc\u0026public=true"
+	]
+}
