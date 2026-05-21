@@ -1,0 +1,13 @@
+{
+	"api": "payments_v5.0",
+	"sd": "197892",
+	"well-known": "https://api.semear.linaob.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=rRFZz2qnPyuY2\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Kh3tXoF5VpEMd\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=JB1vkFmLZP2iB\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=M1GpU1blibw72\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=OhYMLR780DoHY\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=XPYtW1NekP3qQ\u0026public=true"
+	]
+}
