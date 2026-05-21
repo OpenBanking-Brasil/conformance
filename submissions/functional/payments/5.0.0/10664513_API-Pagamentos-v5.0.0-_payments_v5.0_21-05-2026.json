@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "197499",
+	"well-known": "https://auth-sandbox-sensedia.agibank.com.br/of-auth/realms/agibank-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jYvqDV8965mrZ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=bmDKaxHuqHoeD\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gOeegLYhbYEVe\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=NzjE1hGqmNsqa\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=WUA3KOWGcLbd9\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ZVUwl5jvTy82m\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=400shg5wCa8yB\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=0QPkajLeoi2Ag\u0026public=true"
+	]
+}
