@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "198027",
+	"well-known": "https://banking-openfinance.xpi.com.br/orgs/xp/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Oh8CPMx98Ycs5&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=oq86o1RpRO6Pq&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gXBwrdxHuVhg4&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=XuZW7RTTKDZBO&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=dirNWiSjmTSsS&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=z5UOlpVm2FV5v&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=MbnObWG0EINSS&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=7vBcGzPDXJM8z&public=true"
+	]
+}
