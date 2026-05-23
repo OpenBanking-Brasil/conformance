@@ -1,0 +1,14 @@
+{
+	"api": "payments_v5.0",
+	"sd": "198599",
+	"well-known": "https://id.opf.itau.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=EuTKYlh1oTGWz&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=PpMJ2v636VaLi&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=oKGXbyzBWwh8Z&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=2Fn5appvqUMJQ&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=hsFk6lIjZKKWG&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Z3dK4LOPLNTCh&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=4KINk32xlMcAv&public=true"
+	]
+}
