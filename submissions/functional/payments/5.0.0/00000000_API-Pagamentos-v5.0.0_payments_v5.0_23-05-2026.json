@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "198631",
+	"well-known": "https://oauth.bb.com.br/oauth/of/bancodobrasil/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=3MwN99RcJDD2a&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=R5tDXXu8v9c8j&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=4TWcTS9OaT7FO&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=TCbPzjctCmpCc&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Gj2aY1MoiSMVD&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=BRALn1QypuAW3&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Rv77MVJvDMOVO&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Bi3lZ8sXwkR8X&public=true"
+	]
+}
