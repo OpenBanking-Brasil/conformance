@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "198931",
+	"well-known": "https://openfinance.sim.didiglobal.com/auth-server/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=dI71zT1py1F5m\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=opmtwllnhYXgI\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jFbWuTvL8y6UD\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=yHnW5CaPPxu7l\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=vE6NM0Kq0VzeV\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=H9PtFca6XbU6H\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=mgZVfybloOuKq\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=771EvGr3G4gHH\u0026public=true"
+	]
+}
