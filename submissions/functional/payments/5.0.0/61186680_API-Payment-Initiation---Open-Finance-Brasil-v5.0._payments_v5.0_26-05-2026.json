@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "198587",
+	"well-known": "https://api-bmg.bancobmg.com.br/of-auth/realms/bmg/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=zY9cFKRGOrFuC\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=38cuoO7ZXZ3Cm\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ISuyWajsXLtUi\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=HgBDiecX0JhPj\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=XRT971x8V5Drq\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=aK3QwKVSAMCG4\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=678BuQkXvYVHM\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=z3tRz9tD18rXz\u0026public=true"
+	]
+}
