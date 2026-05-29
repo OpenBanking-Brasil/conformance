@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "200714",
+	"well-known": "https://openfinance.shppay.app/orgs/shopee/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=9b798SwCV3vA7\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=zWpUcnrGmP4H2\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=Md5OZki754fO8\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=vM6OG4gUnlKin\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=M3Q8UvdDe5ZYs\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ZLwe0CoVaWIzO\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=AqtescWMGkwjJ\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=cm8avuRrAZxMn\u0026public=true"
+	]
+}
