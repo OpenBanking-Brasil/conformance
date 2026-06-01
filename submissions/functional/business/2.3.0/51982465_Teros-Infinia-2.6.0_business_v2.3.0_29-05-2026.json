@@ -1,0 +1,8 @@
+{
+	"api": "business_v2.3.0",
+	"sd": "201279",
+	"well-known": "https://auth.staging.infinia.app-terosopenbanking.com/.well-known/openid-configuration\r\nhttps://auth.infinia.app-terosopenbanking.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=r4kc61oSiT0Ch\u0026public=true"
+	]
+}
