@@ -1,0 +1,8 @@
+{
+	"api": "credit-card_v2.4.0",
+	"sd": "200756",
+	"well-known": "https://as.of.recargapay.com.br/realms/master/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=qiPS9Pe2QSDBE\u0026public=true"
+	]
+}
