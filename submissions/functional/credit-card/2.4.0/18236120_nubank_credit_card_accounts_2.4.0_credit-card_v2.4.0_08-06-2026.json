@@ -1,0 +1,8 @@
+{
+	"api": "credit-card_v2.4.0",
+	"sd": "204647",
+	"well-known": "https://openbanking.api.nubank.com.br/api/pub/.well-known/openid-configuration\r\n",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=wAxWFuUGJrEBJ\u0026public=true"
+	]
+}
