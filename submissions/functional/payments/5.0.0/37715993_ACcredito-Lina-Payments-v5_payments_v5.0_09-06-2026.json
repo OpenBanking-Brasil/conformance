@@ -1,0 +1,13 @@
+{
+	"api": "payments_v5.0",
+	"sd": "204778",
+	"well-known": "https://api.accreditodigital.linaob.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gLYIxodWQtfRU\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jivFrUb9YEBV3\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=V6l999xLXsQ8B\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=qjVwTJpSZs6W6\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=c7pf44F5UHt6u\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=XV3BGfGqCW5y1\u0026public=true"
+	]
+}
