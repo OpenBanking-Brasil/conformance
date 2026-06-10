@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "204777",
+	"well-known": "https://auth.openfinance.prod.sumup-bank.info/orgs/sumup/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=aLVgM2BhjyOPP&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=nzvxeQHRgGAB5&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=MvyMcfQ0e34Jj&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=MbtLKzPz7cl0j&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=tY9fohu1WZxEz&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=yOCa2CkhU8hAn&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=prFAS8DnAkEeZ&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=88uq24GqwSVCS&public=true"
+	]
+}
