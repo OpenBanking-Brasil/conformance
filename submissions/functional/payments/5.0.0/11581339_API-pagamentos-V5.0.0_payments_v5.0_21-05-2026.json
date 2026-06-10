@@ -1,0 +1,12 @@
+{
+	"api": "payments_v5.0",
+	"sd": "197919",
+	"well-known": "https://auth.bmp.app-terosopenbanking.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gECxc7mskh93z&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=YGv8KgilOAmLd&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DQ6TOnLr6L1zt&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=WP7ZO8w65Qppg&public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=fwIbbcT8A5TD0&public=true"
+	]
+}
