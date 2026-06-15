@@ -1,0 +1,8 @@
+{
+	"api": "business_v2.3.0",
+	"sd": "206338",
+	"well-known": "https://oidc.cumbuca-hml.asproxy.cumbuca.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=M4ro6EIRvwoAa\u0026public=true"
+	]
+}
