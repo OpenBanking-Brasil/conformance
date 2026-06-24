@@ -1,0 +1,13 @@
+{
+	"api": "payments_v5.0",
+	"sd": "210699",
+	"well-known": "https://api-of.fintechmagalu.com.br/auth/realms/openfinance/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=hWteIKVpzrxJG\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=HEcQQJjIsjuLj\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=pnlOUKtVjiJom\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FtVlJaE2bgnDx\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=7XJRjzDJ2PA4m\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=asBAzLFDVbC5f\u0026public=true"
+	]
+}
