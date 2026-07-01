@@ -1,0 +1,11 @@
+{
+	"api": "enrollments_v2.2.0",
+	"sd": "213352",
+	"well-known": "https://openid.net/wp-content/uploads/2026/06/signed-dcojy0cgtos7b-fapi1-advanced-final-brazil-dcr-test-plan-private_key_jwt-pushed-openbanking_brazil-plain_response-dcojy0cgtos7b-21-may-2026.zip\r\n\r\nhttps://openid.net/wp-content/uploads/2026/06/signed-us39ncgegxw0j-fapi1-advanced-final-test-plan-private_key_jwt-pushed-openbanking_brazil-plain_response-us39ncgegxw0j-21-may-2026.zip",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=o1hF5oELjtQZx\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=qw2ss9evbG3TM\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=uuwG7dzMUEwEv\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=n9TrPXQAB2v0I\u0026public=true"
+	]
+}
