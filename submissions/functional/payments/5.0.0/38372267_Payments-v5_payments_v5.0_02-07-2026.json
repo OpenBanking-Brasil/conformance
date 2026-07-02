@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "213732",
+	"well-known": "https://openid.net/wp-content/uploads/2026/06/signed-dcojy0cgtos7b-fapi1-advanced-final-brazil-dcr-test-plan-private_key_jwt-pushed-openbanking_brazil-plain_response-dcojy0cgtos7b-21-may-2026.zip\r\n\r\nhttps://openid.net/wp-content/uploads/2026/06/signed-us39ncgegxw0j-fapi1-advanced-final-test-plan-private_key_jwt-pushed-openbanking_brazil-plain_response-us39ncgegxw0j-21-may-2026.zip",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=AAKEsN27K7Tt6\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jCdvWZLA6zTmH\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=PacCaKhL9Bxl1\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=iYNK8w8XlJZIM\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=bWfc153QGSf7n\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=KGS5K2LbIxk5b\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=sKyGWXodM3Qmk\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=ppKdDAALILE0A\u0026public=true"
+	]
+}
