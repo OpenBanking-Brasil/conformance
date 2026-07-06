@@ -1,0 +1,8 @@
+{
+	"api": "personal_v2.3.0",
+	"sd": "215243",
+	"well-known": "https://auth.open.banqi.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=5IRMVQj78rt35\u0026public=true"
+	]
+}
