@@ -8,6 +8,6 @@ Here are some places to learn more about the Open Banking Brasil certification p
 
 - The [Conformance Suite Application](https://web.conformance.directory.openbankingbrasil.org.br/) allows you to execute the Functional Conformance Tests against your servers/applications. 
 
-- The [Open Finance Brazil Certified Institution Page](https://gitlab.com/raidiam-conformance/open-finance/certification/-/wikis/Certification-Guide) provides a human-readable list of all the institutions that have been certified on the Open Finance Brazil Functional Conformance Tests
+- The [Open Finance Brasil Certified Institution Page](https://gitlab.com/raidiam-conformance/open-finance/certification/-/wikis/Certification-Guide) provides a human-readable list of all the institutions that have been certified on the Open Finance Brasil Functional Conformance Tests
 
-- The [Open Finance Brazil Directory Participants API](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/17377913/Lista+de+Participantes) allows you to obtain the details of all the certified APIs and their endpoints
+- The [Open Finance Brasil Directory Participants API](https://openfinancebrasil.atlassian.net/wiki/spaces/OF/pages/17377913/Lista+de+Participantes) allows you to obtain the details of all the certified APIs and their endpoints
