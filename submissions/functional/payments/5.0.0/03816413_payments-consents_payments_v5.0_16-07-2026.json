@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "218622",
+	"well-known": "https://auth-sandbox.openfinance.pagueveloz.com.br/of-auth/realms/pagueveloz-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FvrTZcAirzhXe\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DlpVb0aTNzsfK\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=LfITLCy2fetCq\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DIy8x5vI31p9f\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=RyVW2mpECogMt\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=GPUpqSNqm2v8E\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FtpfmKqtSGFEg\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=3Rwq3zHR0yGPK\u0026public=true"
+	]
+}
