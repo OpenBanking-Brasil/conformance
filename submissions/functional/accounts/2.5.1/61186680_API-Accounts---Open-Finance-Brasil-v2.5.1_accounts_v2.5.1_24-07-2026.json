@@ -1,0 +1,8 @@
+{
+	"api": "accounts_v2.5.1",
+	"sd": "221464",
+	"well-known": "https://api-bmg.bancobmg.com.br/of-auth/realms/bmg/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=BtcmG1SALIn0R\u0026public=true"
+	]
+}
