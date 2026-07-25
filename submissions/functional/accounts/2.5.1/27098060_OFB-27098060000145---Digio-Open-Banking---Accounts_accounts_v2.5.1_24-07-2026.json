@@ -1,0 +1,8 @@
+{
+	"api": "accounts_v2.5.1",
+	"sd": "221605",
+	"well-known": "https://openbanking.digio.com.br/.well-known/openid-configuration\r\nhttps://openbanking-uber.digio.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DxuKSIp4Jb0ji\u0026public=true"
+	]
+}
