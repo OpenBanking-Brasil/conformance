@@ -1,0 +1,8 @@
+{
+	"api": "accounts_v2.5.1",
+	"sd": "222292",
+	"well-known": "https://id.ion.opf.itau.com.br/.well-known/openid-configuration\r\nhttps://id.opf.itau.com.br/.well-known/openid-configuration\r\nhttps://id.itaubba.opf.itau.com.br/.well-known/openid-configuration\r\nhttps://id.itauemps.opf.itau.com.br/.well-known/openid-configuration\r\nhttps://id.iti.opf.itau.com.br/.well-known/openid-configuration\r\nhttps://id.portobank.iaas.opf.itau.com.br/.well-known/openid-configuration\r\nhttps://id.portobankpj.iaas.opf.itau.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=15UbcJh62BeEe\u0026public=true"
+	]
+}
