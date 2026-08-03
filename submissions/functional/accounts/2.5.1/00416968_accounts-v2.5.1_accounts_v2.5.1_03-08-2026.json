@@ -1,0 +1,8 @@
+{
+	"api": "accounts_v2.5.1",
+	"sd": "224824",
+	"well-known": "https://auth-openfinance.bancointer.com.br/of-auth/realms/inter-pf/.well-known/openid-configuration\r\nhttps://auth-openfinance.bancointer.com.br/of-auth/realms/inter-pj/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=jOGIe1YVIvwva\u0026public=true"
+	]
+}
