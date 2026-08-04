@@ -1,0 +1,15 @@
+{
+	"api": "payments_v5.0",
+	"sd": "224994",
+	"well-known": "https://auth-openfinance.bancointer.com.br/of-auth/realms/inter-pf/.well-known/openid-configuration\r\nhttps://auth-openfinance.bancointer.com.br/of-auth/realms/inter-pj/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=sM4JmdATcn739\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=fXaA7k8LV51oD\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=le4U5XO0mk7pi\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=OWPeEAbG6iCqu\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=AZWkLsYsta52p\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=yUyjBBuop6n7B\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=asdaQSL9siGCq\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=viZgwzXDJ9C1C\u0026public=true"
+	]
+}
