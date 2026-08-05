@@ -1,0 +1,13 @@
+{
+	"api": "payments_v5.0",
+	"sd": "225835",
+	"well-known": "https://open.payments.fitbank.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=AHehSVJ0dubKF\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=FiKGZRd5GvM49\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=PxxKPGkWSzfRV\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=XKIbO3DgNCwlN\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=vz4PIJvx2om6S\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=YVrYcI7e7PK6t\u0026public=true"
+	]
+}
