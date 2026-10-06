@@ -1,0 +1,11 @@
+{
+	"api": "enrollments_v2.2.0",
+	"sd": "243187",
+	"well-known": "https://api-sandbox-wise.inic-of.com/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=dEcD1o7eM80zl\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=gxl9DYx6dpFxO\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=SOxRboKKXTy5d\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=wX9iGJkvvza4J\u0026public=true"
+	]
+}
