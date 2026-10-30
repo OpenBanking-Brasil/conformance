@@ -1,0 +1,8 @@
+{
+	"api": "credit-portability_v1.1.0",
+	"sd": "250816",
+	"well-known": "https://openfinance.realizesolucoesfinanceiras.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=3nGqOPURJMMHb\u0026public=true"
+	]
+}
