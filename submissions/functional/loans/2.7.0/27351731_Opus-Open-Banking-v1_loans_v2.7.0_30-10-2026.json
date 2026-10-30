@@ -1,0 +1,8 @@
+{
+	"api": "loans_v2.7.0",
+	"sd": "250816",
+	"well-known": "https://openfinance.realizesolucoesfinanceiras.com.br/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=F75HU56ui0Oq3\u0026public=true"
+	]
+}
