@@ -1,0 +1,8 @@
+{
+	"api": "loans_v2.7.0",
+	"sd": "252085",
+	"well-known": "https://api-opf.asa.com.br/of-auth/realms/asa/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=s3ZFh4vTVYHRu\u0026public=true"
+	]
+}
