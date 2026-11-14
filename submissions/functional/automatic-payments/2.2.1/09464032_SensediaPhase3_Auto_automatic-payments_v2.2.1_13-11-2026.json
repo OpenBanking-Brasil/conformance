@@ -1,0 +1,14 @@
+{
+	"api": "automatic-payments_v2.2.1",
+	"sd": "256616",
+	"well-known": "https://api-opf.midway.com.br/of-auth/realms/midway/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=drHyA9bNpHMOj\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=kUdstgdAn0UdK\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=3lYWZ3PIE3n2D\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=4x6LWT4JJttlq\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=wsfk3Oho2xrSw\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=fLBWTW1YmXIsf\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=NnvIJcpZZPYKl\u0026public=true"
+	]
+}
