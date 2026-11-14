@@ -1,0 +1,11 @@
+{
+	"api": "enrollments_v2.3.0",
+	"sd": "256932",
+	"well-known": "https://api-opf.midway.com.br/of-auth/realms/midway/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=tyueQFf4zbGOi\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=42nPLR3OFSTbP\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=tng356YYYuBUi\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=DMJPwcFQtbCdP\u0026public=true"
+	]
+}
