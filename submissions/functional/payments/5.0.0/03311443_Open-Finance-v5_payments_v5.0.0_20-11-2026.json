@@ -1,0 +1,13 @@
+{
+	"api": "payments_v5.0.0",
+	"sd": "259139",
+	"well-known": "https://auth.openbanking.parati-cfi.com.br/of-auth/realms/bitcapital/.well-known/openid-configuration\r\n\r\nhttps://auth.sbox.openbanking.parati-cfi.com.br/of-auth/realms/bitcapital-sbx/.well-known/openid-configuration",
+	"test_plan_uri": [
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=mJGEafSK4T4Ux\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=tJZibThqSGSir\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=6IUhbXbPSXCVB\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=yzWinS5CQgVuG\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=b4ZuSwBmRShMM\u0026public=true",
+		"https://web.conformance.directory.openbankingbrasil.org.br/plan-detail.html?plan=wbvUvhT3XwGja\u0026public=true"
+	]
+}
